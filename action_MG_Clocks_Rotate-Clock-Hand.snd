@@ -1,0 +1,5 @@
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="false" >
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="0.850" Volume="0.600" FileName="action_MG_Clocks_Rotate-Clock-Hand.wav"></CSampleFile>
+        </CSample>
+</Sound>

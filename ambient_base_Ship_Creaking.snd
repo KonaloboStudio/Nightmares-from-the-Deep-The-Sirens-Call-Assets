@@ -1,0 +1,20 @@
+<!-- Used in location Deck. Sounds of creaking ship (few random sounds; creaking old masts, sails.). -->
+
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="true"  Ambient="true" >
+
+	<CRandomContainer DelayMin="2" DelayMax="5" WaitAfterMin="3" WaitAfterMax="8">
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="0.700" Volume="0.550" FadeInTime="0.75" FadeOutTime="0.75" FileName="ambient_base_Ship_Creaking_1.wav"></CSampleFile>
+        </CSample>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="0.700" Volume="0.550" FadeInTime="0.75" FadeOutTime="0.75" FileName="ambient_base_Ship_Creaking_2.wav"></CSampleFile>
+        </CSample>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="0.700" Volume="0.550" FadeInTime="0.75" FadeOutTime="0.75" FileName="ambient_base_Ship_Creaking_3.wav"></CSampleFile>
+        </CSample>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="0.700" Volume="0.550" FadeInTime="0.75" FadeOutTime="0.75" FileName="ambient_base_Ship_Creaking_4.wav"></CSampleFile>
+        </CSample>
+    </CRandomContainer>
+
+</Sound>

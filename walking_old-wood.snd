@@ -1,0 +1,12 @@
+<!-- Used in Ghost Ship(ew. Water Storage) and other locations with very old, wooden floor. -->
+
+<Sound Pan="0.300" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CRandomContainer>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="0.900" FileName="walking_old-wood_1.wav"></CSampleFile>
+        </CSample>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="0.900" FileName="walking_old-wood_3.wav"></CSampleFile>
+        </CSample>
+    </CRandomContainer>
+</Sound>

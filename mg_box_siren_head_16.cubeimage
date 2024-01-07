@@ -1,0 +1,19 @@
+<animatedImage fps="10" blendframes="0" width="165" height="148"> 
+	<frame source="mg_box_siren_head_16_Siren_0000.png" dx="0" dy="2" width="165" height="146"></frame>
+	<frame source="mg_box_siren_head_16_Siren_0001.png" dx="0" dy="1" width="162" height="147"></frame>
+	<frame source="mg_box_siren_head_16_Siren_0002.png" dx="0" dy="1" width="162" height="147"></frame>
+	<frame source="mg_box_siren_head_16_Siren_0003.png" dx="0" dy="0" width="162" height="148"></frame>
+	<frame source="mg_box_siren_head_16_Siren_0004.png" dx="0" dy="0" width="164" height="148"></frame>
+	<frame source="mg_box_siren_head_16_Siren_0005.png" dx="0" dy="1" width="164" height="147"></frame>
+	<frame source="mg_box_siren_head_16_Siren_0006.png" dx="0" dy="1" width="164" height="147"></frame>
+	<frame source="mg_box_siren_head_16_Siren_0007.png" dx="0" dy="1" width="164" height="147"></frame>
+	<frame source="mg_box_siren_head_16_Siren_0008.png" dx="0" dy="1" width="164" height="147"></frame>
+	<frame source="mg_box_siren_head_16_Siren_0009.png" dx="0" dy="1" width="164" height="147"></frame>
+	<frame source="mg_box_siren_head_16_Siren_0010.png" dx="0" dy="1" width="164" height="147"></frame>
+	<frame source="mg_box_siren_head_16_Siren_0011.png" dx="0" dy="1" width="164" height="147"></frame>
+	<frame source="mg_box_siren_head_16_Siren_0012.png" dx="0" dy="1" width="164" height="147"></frame>
+	<frame source="mg_box_siren_head_16_Siren_0013.png" dx="0" dy="1" width="164" height="147"></frame>
+	<frame source="mg_box_siren_head_16_Siren_0014.png" dx="0" dy="1" width="164" height="147"></frame>
+	<frame source="mg_box_siren_head_16_Siren_0015.png" dx="0" dy="1" width="164" height="147"></frame>
+	
+</animatedImage >

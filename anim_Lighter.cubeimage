@@ -1,0 +1,5 @@
+<animatedImage fps="6" blendframes="1" randomstart="1" width="100" height="100">
+	<frame source="item_lighter_01.png" dx="0" dy="0" width="100" height="100"></frame>
+	<frame source="item_lighter_02.png" dx="0" dy="1" width="100" height="100"></frame>
+	<frame source="item_lighter_03.png" dx="0" dy="0" width="100" height="100"></frame>
+</animatedImage>

@@ -1,0 +1,15 @@
+<animatedImage fps="12" blendframes="0" width="340" height="397"> 
+	<frame source="monologue_fishman-boat_taking_off_hat_25_2.png" dx="92" dy="11" width="248" height="386"></frame>
+	<frame source="monologue_fishman-boat_taking_off_hat_25_4.png" dx="91" dy="10" width="249" height="386"></frame>
+	<frame source="monologue_fishman-boat_taking_off_hat_25_6.png" dx="91" dy="6" width="249" height="390"></frame>
+	<frame source="monologue_fishman-boat_taking_off_hat_25_8.png" dx="91" dy="3" width="249" height="393"></frame>
+	<frame source="monologue_fishman-boat_taking_off_hat_25_10.png" dx="85" dy="2" width="255" height="394"></frame>
+	<frame source="monologue_fishman-boat_taking_off_hat_25_12.png" dx="85" dy="3" width="255" height="393"></frame>
+	<frame source="monologue_fishman-boat_taking_off_hat_25_14.png" dx="85" dy="5" width="255" height="391"></frame>
+	<frame source="monologue_fishman-boat_taking_off_hat_25_16.png" dx="85" dy="0" width="255" height="396"></frame>
+	<frame source="monologue_fishman-boat_taking_off_hat_25_18.png" dx="85" dy="15" width="255" height="381"></frame>
+	<frame source="monologue_fishman-boat_taking_off_hat_25_20.png" dx="70" dy="15" width="270" height="381"></frame>
+	<frame source="monologue_fishman-boat_taking_off_hat_25_22.png" dx="50" dy="15" width="290" height="381"></frame>
+	<frame source="monologue_fishman-boat_taking_off_hat_25_24.png" dx="29" dy="16" width="311" height="380"></frame>
+	<frame source="monologue_fishman-boat_taking_off_hat_25_26.png" dx="0" dy="17" width="340" height="379"></frame>
+</animatedImage >

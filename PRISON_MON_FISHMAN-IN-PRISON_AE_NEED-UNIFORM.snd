@@ -1,0 +1,5 @@
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="false" >
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="1.000" FileName="PRISON_MON_FISHMAN-IN-PRISON_AE_NEED-UNIFORM.wav"></CSampleFile>
+        </CSample>
+</Sound>

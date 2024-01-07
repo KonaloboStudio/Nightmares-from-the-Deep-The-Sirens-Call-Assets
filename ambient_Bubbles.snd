@@ -1,0 +1,5 @@
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="true" Ambient="true" WaitAfterMin="4" WaitAfterMax="8" FadeInTime="1" FadeOutTime="1">
+        <CSample>
+           <CSampleFile  Pan="0.000" Pitch="1.000" Volume="0.800" FileName="ambient_Bubbles.wav"></CSampleFile>
+        </CSample>
+</Sound>

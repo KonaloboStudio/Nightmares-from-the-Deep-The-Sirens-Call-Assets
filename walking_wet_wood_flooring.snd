@@ -1,0 +1,9 @@
+<!-- Used in many locations with wet wood flooring. (ex. Pier) -->
+
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CRandomContainer>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="1.000" FileName="walking_wet_wood_flooring.wav"></CSampleFile>
+        </CSample>
+    </CRandomContainer>
+</Sound>

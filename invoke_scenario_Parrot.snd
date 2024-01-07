@@ -1,0 +1,13 @@
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CRandomContainer>
+        <CSample>
+           <CSampleFile Pan="0.200" Pitch="1.300" Volume="0.800" FileName="invoke_scenario_Parrot_1.wav"></CSampleFile>
+        </CSample>
+        <CSample>
+           <CSampleFile Pan="0.200" Pitch="1.300" Volume="0.800" FileName="invoke_scenario_Parrot_2.wav"></CSampleFile>
+        </CSample>
+        <CSample>
+           <CSampleFile Pan="0.200" Pitch="1.300" Volume="0.800" FileName="invoke_scenario_Parrot_3.wav"></CSampleFile>
+        </CSample>
+    </CRandomContainer>
+</Sound>

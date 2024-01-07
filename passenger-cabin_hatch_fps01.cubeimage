@@ -1,0 +1,14 @@
+<animatedImage fps="10" blendframes="0" width="326" height="118"> 
+	<frame source="passenger-cabin_hatch_fps01_Hatch_01.png" dx="36" dy="1" width="290" height="63"></frame>
+	<frame source="passenger-cabin_hatch_fps01_Hatch_02.png" dx="34" dy="1" width="285" height="64"></frame>
+	<frame source="passenger-cabin_hatch_fps01_Hatch_03.png" dx="24" dy="0" width="291" height="68"></frame>
+	<frame source="passenger-cabin_hatch_fps01_Hatch_04.png" dx="13" dy="2" width="299" height="68"></frame>
+	<frame source="passenger-cabin_hatch_fps01_Hatch_05.png" dx="4" dy="7" width="306" height="66"></frame>>
+	<frame source="passenger-cabin_hatch_fps01_Hatch_06.png" dx="0" dy="17" width="309" height="57"></frame
+	<frame source="passenger-cabin_hatch_fps01_Hatch_07.png" dx="1" dy="32" width="307" height="54"></frame>
+	<frame source="passenger-cabin_hatch_fps01_Hatch_08.png" dx="1" dy="47" width="307" height="54"></frame>
+	<frame source="passenger-cabin_hatch_fps01_Hatch_09.png" dx="3" dy="47" width="305" height="64"></frame>
+	<frame source="passenger-cabin_hatch_fps01_Hatch_10.png" dx="10" dy="47" width="298" height="68"></frame>
+	<frame source="passenger-cabin_hatch_fps01_Hatch_11.png" dx="16" dy="47" width="292" height="68"></frame>
+	<frame source="passenger-cabin_hatch_fps01_Hatch_12.png" dx="22" dy="45" width="284" height="73"></frame>
+</animatedImage >

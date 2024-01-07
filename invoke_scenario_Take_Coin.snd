@@ -1,0 +1,20 @@
+<!-- Used in Captain's Cabin, FSZoom Chest. Sounds played when pirate takes a coin.-->
+
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000">
+	<CSoundContainer>
+		<CSoundContainer Delay="0.0">
+			<CSample>
+				<CSampleFile Pan="0.000" Pitch="1.000" Volume="1.0" 
+FileName="invoke_scenario_Take_Coin_1.wav"></CSampleFile>
+			</CSample>
+		</CSoundContainer>
+		
+		<CSoundContainer Delay="2.3">
+			<CSample>
+				<CSampleFile Pan="0.000" Pitch="1.000" Volume="1.0" 
+FileName="invoke_scenario_Take_Coin_2.wav"></CSampleFile>
+			</CSample>
+		</CSoundContainer>
+
+	</CSoundContainer>
+</Sound>

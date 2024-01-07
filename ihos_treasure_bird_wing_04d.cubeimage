@@ -1,0 +1,5 @@
+<animatedImage fps="7" blendframes="0" width="209" height="116"> 
+	<frame source="ihos_treasure_EX_bird_wing_03d.png" dx="0" dy="13" width="209" height="99"></frame>
+	<frame source="ihos_treasure_EX_bird_wing_02d.png" dx="2" dy="9" width="192" height="103"></frame>
+	<frame source="ihos_treasure_EX_bird_wing_01d.png" dx="14" dy="0" width="170" height="116"></frame>
+</animatedImage >

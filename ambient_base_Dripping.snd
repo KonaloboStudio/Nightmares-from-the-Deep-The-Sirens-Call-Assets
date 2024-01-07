@@ -1,0 +1,23 @@
+<!-- Used in locations where is raining(ex. Hall, Office). Looped sound. -->
+
+<Sound Pan="0.300" Pitch="1.000" Volume="1.000" Looped="false"  Ambient="true" >
+    <CRandomContainer>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="0.350" FileName="action_scenario_Water-Drops_1.wav" ></CSampleFile>
+        </CSample>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="0.350" FileName="action_scenario_Water-Drops_2.wav" ></CSampleFile>
+        </CSample>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="0.450" FileName="action_scenario_Water-Drops_3.wav" ></CSampleFile>
+        </CSample>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="0.350" FileName="action_scenario_Water-Drops_4.wav" ></CSampleFile>
+        </CSample>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="0.350" FileName="action_scenario_Water-Drops_5.wav" ></CSampleFile>
+        </CSample>
+		
+
+    </CRandomContainer>
+</Sound>

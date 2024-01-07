@@ -1,0 +1,9 @@
+<!-- fszoom with doors in square -->
+
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="false"  Ambient="true">
+
+	<CSample>
+	   <CSampleFile Pan="0.000" Pitch="1.000" Volume="1.0" FileName="ambient_scenario_Thunder_1.wav"></CSampleFile>
+	</CSample>
+
+</Sound>

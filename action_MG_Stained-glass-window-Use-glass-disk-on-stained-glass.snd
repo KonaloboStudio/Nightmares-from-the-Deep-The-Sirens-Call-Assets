@@ -1,0 +1,5 @@
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="false" >
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="1.000" FileName="action_MG_Stained-glass-window-Use-glass-disk-on-stained-glass.wav"></CSampleFile>
+        </CSample>
+</Sound>

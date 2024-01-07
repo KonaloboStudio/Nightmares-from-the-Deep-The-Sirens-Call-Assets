@@ -1,0 +1,7 @@
+<animatedImage fps="25" blendframes="0" width="290" height="289"> 
+	<frame source="water_beauty_0000.png" ></frame>
+	<frame source="water_beauty_0005.png" ></frame>
+	<frame source="water_beauty_0010.png" ></frame>
+	<frame source="water_beauty_0015.png" ></frame>
+	<frame source="water_beauty_0020.png" ></frame>
+</animatedImage >

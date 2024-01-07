@@ -1,0 +1,7 @@
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Ambient="true">
+    <CSoundContainer>
+        <CSample>
+           <CSampleFile Pan="0.000"  Looped="true" Pitch="1.000" Volume="0.600" FileName="ambient_base_Talks-Outside.wav" ></CSampleFile>
+        </CSample>
+    </CSoundContainer>
+</Sound>

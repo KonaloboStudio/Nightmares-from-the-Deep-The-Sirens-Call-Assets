@@ -1,0 +1,7 @@
+<animatedImage fps="6" blendframes="0" width="64" height="56"> 
+	<frame source="z_press_refill_Refill_01.png" dx="0" dy="28" width="59" height="28"></frame>
+	<frame source="z_press_refill_Refill_02.png" dx="1" dy="21" width="61" height="35"></frame>
+	<frame source="z_press_refill_Refill_03.png" dx="0" dy="11" width="63" height="45"></frame>
+	<frame source="z_press_refill_Refill_04.png" dx="0" dy="4" width="64" height="52"></frame>
+	<frame source="z_press_refill_Refill_05.png" dx="1" dy="0" width="63" height="56"></frame>
+</animatedImage >

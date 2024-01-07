@@ -1,0 +1,23 @@
+<animatedImage fps="14.00" blendframes="0">
+    <frame source="butt_hint_compass_cover_anim020.png" ></frame>
+    <frame source="butt_hint_compass_cover_anim019.png" ></frame>
+	<frame source="butt_hint_compass_cover_anim018.png" ></frame>
+	<frame source="butt_hint_compass_cover_anim017.png" ></frame>
+	<frame source="butt_hint_compass_cover_anim016.png" ></frame>
+    <frame source="butt_hint_compass_cover_anim015.png" ></frame>
+    <frame source="butt_hint_compass_cover_anim014.png" ></frame>
+	<frame source="butt_hint_compass_cover_anim013.png" ></frame>
+	<frame source="butt_hint_compass_cover_anim012.png" ></frame>
+	<frame source="butt_hint_compass_cover_anim011.png" ></frame>
+    <frame source="butt_hint_compass_cover_anim010.png" ></frame>
+    <frame source="butt_hint_compass_cover_anim009.png" ></frame>
+	<frame source="butt_hint_compass_cover_anim008.png" ></frame>
+	<frame source="butt_hint_compass_cover_anim007.png" ></frame>
+	<frame source="butt_hint_compass_cover_anim006.png" ></frame>
+    <frame source="butt_hint_compass_cover_anim005.png" ></frame>
+    <frame source="butt_hint_compass_cover_anim004.png" ></frame>
+	<frame source="butt_hint_compass_cover_anim003.png" ></frame>
+	<frame source="butt_hint_compass_cover_anim002.png" ></frame>
+	<frame source="butt_hint_compass_cover_anim001.png" ></frame>
+	<frame source="butt_hint_compass_cover_anim000.png" ></frame>
+</animatedImage>

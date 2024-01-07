@@ -1,0 +1,15 @@
+<!-- Used in Main menu. Press any option / button.-->
+
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CRandomContainer>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="0.500" FileName="mainmenu_button_press_2.wav"></CSampleFile>
+        </CSample>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="0.500" FileName="mainmenu_button_press.wav"></CSampleFile>
+        </CSample>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="0.500" FileName="mainmenu_button_press_3.wav"></CSampleFile>
+        </CSample>
+    </CRandomContainer>
+</Sound>

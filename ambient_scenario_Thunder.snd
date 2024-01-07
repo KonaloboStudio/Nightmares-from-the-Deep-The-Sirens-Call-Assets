@@ -1,0 +1,16 @@
+<!-- Used in scenario with thunders(ex. Hall. Office). Generic sound. -->
+
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="false"  Ambient="true">
+    <CRandomContainer Delay="1.000">
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="0.450" FileName="ambient_scenario_Thunder_1.wav"></CSampleFile>
+        </CSample>
+		<CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="0.650" FileName="ambient_scenario_Thunder_4.wav"></CSampleFile>
+        </CSample>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="0.650" FileName="ambient_scenario_Thunder_5.wav"></CSampleFile>
+        </CSample>
+
+    </CRandomContainer>
+</Sound>

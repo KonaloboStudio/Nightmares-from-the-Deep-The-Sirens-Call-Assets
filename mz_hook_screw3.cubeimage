@@ -1,0 +1,5 @@
+<animatedImage fps="5" blendframes="0" width="140" height="245"> 
+	<frame source="mz_hook_screw3_Screw3_3.png" dx="7" dy="0" width="108" height="111"></frame>
+	<frame source="mz_hook_screw3_Screw3_2.png" dx="14" dy="68" width="126" height="74"></frame>
+	<frame source="mz_hook_screw3_Screw3_1.png" dx="0" dy="63" width="93" height="182"></frame>
+</animatedImage >

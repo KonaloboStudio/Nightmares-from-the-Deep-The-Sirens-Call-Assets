@@ -1,0 +1,21 @@
+<!-- Used in Deck. Squeak of flying bat. -->
+
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="true"  Ambient="true" >
+
+	<CRandomContainer DelayMin="5" DelayMax="10" WaitAfterMin="5" WaitAfterMax="8">
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="0.700" Volume="0.550" FadeInTime="0.75" FadeOutTime="0.75" FileName="ambient_Bat_Squeak.wav"></CSampleFile>
+        </CSample>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="0.700" Volume="0.550" FadeInTime="0.75" FadeOutTime="0.75" FileName="ambient_Bat_Squeak2.wav"></CSampleFile>
+        </CSample>
+      
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.00" Volume="0.750"  FileName="ambient_Bat_Squeak.wav"></CSampleFile>
+        </CSample>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.00" Volume="0.750"  FileName="ambient_Bat_Squeak2.wav"></CSampleFile>
+        </CSample>
+    </CRandomContainer>
+
+</Sound>

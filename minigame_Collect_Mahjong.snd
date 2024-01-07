@@ -1,0 +1,9 @@
+<!-- Used in minigame Mahjong. Sound of collecting the dices (but no gold dices) in minigame Mahjong. -->
+
+<Sound Pan="0.300" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CSequenceContainer>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.200" Volume="1.000" FileName="minigame_Collect_Mahjong.wav"></CSampleFile>
+        </CSample>
+    </CSequenceContainer>
+</Sound>

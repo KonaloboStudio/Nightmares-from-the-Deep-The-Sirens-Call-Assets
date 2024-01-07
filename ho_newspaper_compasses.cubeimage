@@ -1,0 +1,10 @@
+<animatedImage fps="15" blendframes="0" width="68" height="137">
+	<frame source="ho_newspaper_EX_circle_a1.png" dx="23" dy="6" width="45" height="105"></frame>
+	<frame source="ho_newspaper_EX_circle_a2.png" dx="20" dy="0" width="20" height="111"></frame>
+	<frame source="ho_newspaper_EX_circle_a3.png" dx="14" dy="1" width="27" height="110"></frame>
+	<frame source="ho_newspaper_EX_circle_a4.png" dx="1" dy="7" width="41" height="104"></frame>
+	<frame source="ho_newspaper_EX_circle_a5.png" dx="0" dy="15" width="43" height="105"></frame>
+	<frame source="ho_newspaper_EX_circle_a6.png" dx="10" dy="22" width="32" height="115"></frame>
+	<frame source="ho_newspaper_EX_circle_a7.png" dx="21" dy="20" width="38" height="113"></frame>
+	<frame source="ho_newspaper_ex_circle_a1.png" dx="23" dy="6" width="45" height="105"></frame>
+</animatedImage>

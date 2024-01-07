@@ -1,0 +1,13 @@
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Ambient="true" >
+    <CRandomContainer>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="0.800" FileName="action_Reception_Ghost-Appear.wav" ></CSampleFile>
+        </CSample>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.800" Volume="0.800" FileName="action_Reception_Ghost-Appear.wav" ></CSampleFile>
+        </CSample>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.450" Volume="0.800" FileName="action_Reception_Ghost-Appear.wav" ></CSampleFile>
+        </CSample>
+    </CRandomContainer>
+</Sound>

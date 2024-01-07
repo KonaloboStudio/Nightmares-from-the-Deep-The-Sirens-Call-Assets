@@ -1,0 +1,4 @@
+<animatedImage fps="7" blendframes="0" width="75" height="49"> 
+	<frame source="zoom_under-the-stove_bee_bee_02.png" dx="0" dy="20" width="75" height="29"></frame>
+	<frame source="zoom_under-the-stove_bee_bee_01.png" dx="4" dy="0" width="67" height="49"></frame>
+</animatedImage >

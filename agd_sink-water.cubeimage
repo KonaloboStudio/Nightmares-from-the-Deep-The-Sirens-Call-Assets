@@ -1,0 +1,6 @@
+<animatedImage fps="11" blendframes="0">
+	<frame source="iho_agd_water01.png"></frame>
+	<frame source="iho_agd_water02.png"></frame>
+	<frame source="iho_agd_water03.png"></frame>
+	<frame source="iho_agd_water04.png"></frame>
+</animatedImage>

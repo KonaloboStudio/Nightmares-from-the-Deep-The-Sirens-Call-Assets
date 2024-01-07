@@ -1,0 +1,5 @@
+<animatedImage fps="9" blendframes="0" width="18" height="42"> 
+	<frame source="z_press_wheel_Wheel_03.png" dx="0" dy="0" width="18" height="42"></frame>
+	<frame source="z_press_wheel_Wheel_02.png" dx="0" dy="13" width="16" height="27"></frame>
+	<frame source="z_press_wheel_Wheel_01.png" dx="0" dy="10" width="17" height="27"></frame>
+</animatedImage >

@@ -1,0 +1,5 @@
+<animatedImage fps="5" blendframes="1">
+	<frame source="mg_photos_slot_opened_01.png"></frame>
+	<frame source="mg_photos_slot_opened_02.png"></frame>
+	<frame source="mg_photos_slot_opened_03.png"></frame>
+</animatedImage>

@@ -1,0 +1,9 @@
+<!-- Used in locations where is firehose with water (ex. Corridor). Looped sound. -->
+
+<Sound Pan="0.00" Pitch="1.000" Volume="1.000" Ambient="true">
+    <CRandomContainer>
+        <CSample>
+           <CSampleFile Pan="0.300" Pitch="1.000" Volume="0.630" Looped="true" FileName="ambient_base_Firehose-Water.wav" ></CSampleFile>
+        </CSample>
+    </CRandomContainer>
+</Sound>

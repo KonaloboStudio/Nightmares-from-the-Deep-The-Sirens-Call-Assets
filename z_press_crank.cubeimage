@@ -1,0 +1,10 @@
+<animatedImage fps="9" blendframes="0" width="125" height="126"> 
+	<frame source="z_press_crank_Crank_08.png" dx="0" dy="0" width="125" height="126"></frame>
+	<frame source="z_press_crank_Crank_07.png" dx="0" dy="0" width="125" height="126"></frame>
+	<frame source="z_press_crank_Crank_06.png" dx="0" dy="0" width="125" height="126"></frame>
+	<frame source="z_press_crank_Crank_05.png" dx="0" dy="0" width="125" height="126"></frame>
+	<frame source="z_press_crank_Crank_04.png" dx="0" dy="0" width="125" height="126"></frame>
+	<frame source="z_press_crank_Crank_03.png" dx="0" dy="0" width="125" height="126"></frame>
+	<frame source="z_press_crank_Crank_02.png" dx="0" dy="0" width="125" height="126"></frame>
+	<frame source="z_press_crank_Crank_01.png" dx="0" dy="0" width="125" height="126"></frame>
+</animatedImage >

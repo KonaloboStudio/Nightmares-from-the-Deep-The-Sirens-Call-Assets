@@ -1,0 +1,6 @@
+<animatedImage fps="8" blendframes="0" width="122" height="199">
+	<frame source="mz_keyhole_EX_Key_04.png" dx="0" dy="0" width="122" height="199"></frame>
+	<frame source="mz_keyhole_EX_Key_03.png" dx="0" dy="0" width="122" height="199"></frame>
+	<frame source="mz_keyhole_EX_Key_02.png" dx="0" dy="0" width="122" height="189"></frame>
+	<frame source="mz_keyhole_EX_Key_01.png" dx="0" dy="0" width="122" height="199"></frame>
+</animatedImage>

@@ -1,0 +1,5 @@
+<animatedImage fps="5" blendframes="1" width="199" height="122">
+	<frame source="z_tar_jar_tar_fps_3_EX_jar_tar_01.png" dx="0" dy="0" width="199" height="122"></frame>
+	<frame source="z_tar_jar_tar_fps_3_EX_jar_tar_02.png" dx="0" dy="0" width="199" height="122"></frame>
+	<frame source="z_tar_jar_tar_fps_3_EX_jar_tar_03.png" dx="0" dy="0" width="199" height="122"></frame>
+</animatedImage>

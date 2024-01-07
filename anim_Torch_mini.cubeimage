@@ -1,0 +1,5 @@
+<animatedImage fps="6" blendframes="1" randomstart="1">
+	<frame source="item_torch_mini.png"></frame>
+	<frame source="item_torch2_mini.png"></frame>
+	<frame source="item_torch3_mini.png"></frame>
+</animatedImage>

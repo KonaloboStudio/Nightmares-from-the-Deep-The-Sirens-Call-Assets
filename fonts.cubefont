@@ -1,0 +1,667 @@
+<fontscript>
+	<font gensize="13" name="achievement-2_desc" size="13" source="NoticiaText-Regular.ttf"/>
+	<font gensize="18" name="achievement-2_post" shadowcolor="0.443137:0.443137:0.443137:1" shadowoffset="1:1" size="18" source="NoticiaText-Regular.ttf"/>
+	<font gensize="13" lineheight="17" name="achievement_desc" shadowcolor="0:0:0:1" shadowoffset="-2:-2" size="13" source="Inconsolata.ttf"/>
+	<font gensize="18" name="achievement_post" shadowcolor="0:0:0:0" shadowoffset="-2:-2" size="18" source="Inconsolata.ttf"/>
+	<font gensize="18" name="Achievement_title" shadowcolor="0:0:0:0" shadowoffset="-2:-2" size="18" source="Inconsolata.ttf"/>
+	<font gensize="41" name="AGD_Telephone-Panel" size="41" source="LiberationSerif-Bold.ttf"/>
+	<font gensize="16" lineheight="23" name="Book-Leaflet_Header-1" size="16" source="NoticiaText-Regular.ttf"/>
+	<font gensize="20" lineheight="23" name="Book-Leaflet_Header-2" size="20" source="NoticiaText-Regular.ttf"/>
+	<font gensize="10" name="Book_Office_Author" size="10" source="NoticiaText-Regular.ttf"/>
+	<font gensize="19" name="Book_Office_Price" size="19" source="NoticiaText-Regular.ttf"/>
+	<font gensize="10" name="Book_Office_Title" size="10" source="NoticiaText-Regular.ttf"/>
+	<font gensize="24" name="Book_Sarah_Author" size="24" source="NoticiaText-Regular.ttf"/>
+	<font gensize="23" lineheight="27" name="Book_Sarah_Title" size="23" source="NoticiaText-Regular.ttf"/>
+	<font gensize="26" name="Capitans_Journal_Large" size="26" source="Allura-Regular.ttf"/>
+	<font gensize="30" name="Capitans_Journal_MediumLarge" size="30" source="Allura-Regular.ttf"/>
+	<font gensize="18" name="Capitans_Journal_Normal" size="18" source="Allura-Regular.ttf"/>
+	<font gensize="13" name="Capitans_Journal_Small" size="13" source="Allura-Regular.ttf"/>
+	<font gensize="59" name="Capitans_Journal_XLarge" size="59" source="Allura-Regular.ttf"/>
+	<font gensize="18" name="Captains_Photo" size="18" source="NoticiaText-Regular.ttf"/>
+	<font gensize="32" name="CaseDispaly" size="32" source="NoticiaText-Regular.ttf"/>
+	<font gensize="20" name="ClickToContinue" size="20" source="CrimsonText-Italic.ttf"/>
+	<font gensize="16" name="Credits_Buttons" size="16" source="NoticiaText-Regular.ttf"/>
+	<font gensize="30" name="Credits_function" size="30" source="CrimsonText-Italic.ttf"/>
+	<font gensize="25" name="Credits_name" size="25" source="NoticiaText-Regular.ttf"/>
+	<font gensize="16" name="Crypt_Diary_Normal" size="16" source="Norican-Regular.ttf"/>
+	<font gensize="16" name="Cutscene" size="16" source="CrimsonText-Italic.ttf"/>
+	<font gensize="10" name="Debug" size="10" source="Inconsolata.ttf"/>
+	<font gensize="8" name="Default" size="8" source="DejaVuSans.ttf"/>
+	<font gensize="18" name="Dialog_Btn" shadowcolor="0:0:0:1" shadowoffset="2:2" size="18" source="CrimsonText-Italic.ttf"/>
+	<font gensize="17" name="Dialog_Btn_Create_Profile" shadowcolor="0:0:0:1" shadowoffset="2:2" size="17" source="CrimsonText-Italic.ttf"/>
+	<font gensize="15" name="DIALOG_CORRUPTED_PROFILE" size="15" source="UnJamoSora.ttf"/>
+	<font gensize="72" name="Dialog_Extras_DemoFilter" shadowcolor="0:0:0:0" shadowoffset="4:4" size="72" source="CrimsonText-Italic.ttf"/>
+	<font gensize="24" name="Dialog_Extras_Large" size="24" source="CrimsonText-Italic.ttf"/>
+	<font gensize="18" name="Dialog_Extras_Normal" size="18" source="CrimsonText-Italic.ttf"/>
+	<font gensize="17" name="Dialog_Extras_Normal_Music-Saved" size="17" source="CrimsonText-Italic.ttf"/>
+	<font gensize="10" name="Dialog_Extras_Small" size="10" source="CrimsonText-Italic.ttf"/>
+	<font gensize="22" name="Dialog_InGame_Btn" shadowcolor="0:0:0:1" shadowoffset="2:2" size="22" source="CrimsonText-Italic.ttf"/>
+	<font gensize="18" name="Dialog_InGame_Title" shadowcolor="0:0:0:1" shadowoffset="2:2" size="18" source="CrimsonText-Italic.ttf"/>
+	<font gensize="16" name="Dialog_MoreInfo" size="16" source="NoticiaText-Regular.ttf"/>
+	<font gensize="17" name="Dialog_profil_name" size="17" source="CrimsonText-Italic.ttf"/>
+	<font gensize="22" name="Dialog_Text" shadowcolor="0:0:0:1" shadowoffset="2:2" size="22" source="CrimsonText-Italic.ttf"/>
+	<font gensize="18" name="Dialog_Text_18" size="18" source="CrimsonText-Italic.ttf"/>
+	<font gensize="17" name="Dialog_Text_Create_Profile" size="17" source="CrimsonText-Italic.ttf"/>
+	<font gensize="22" lineheight="23" name="Dialog_Text_DifficultyLevel" shadowcolor="0:0:0:1" shadowoffset="2:2" size="22" source="CrimsonText-Italic.ttf"/>
+	<font gensize="18" name="Dialog_Title" shadowcolor="0:0:0:1" shadowoffset="2:2" size="18" source="CrimsonText-Italic.ttf"/>
+	<font gensize="17" name="Dialog_Title_Create_Profile" shadowcolor="0:0:0:1" shadowoffset="2:2" size="17" source="CrimsonText-Italic.ttf"/>
+	<font gensize="18" name="DIARY_OBJECTIVE_DESC" size="18" source="TheGreatEscape.ttf"/>
+	<font gensize="14" lineheight="32" name="DIARY_OBJECTIVE_SHORT_DESC" size="14" source="TheGreatEscape.ttf"/>
+	<font gensize="28" name="DIARY_OBJECTIVE_TITLE_Large" size="28" source="TheGreatEscape.ttf"/>
+	<font gensize="21" name="DIARY_OBJECTIVE_TITLE_Small" size="21" source="TheGreatEscape.ttf"/>
+	<font gensize="20" name="DIARY_Pages" size="20" source="CrimsonText-Italic.ttf"/>
+	<font gensize="20" name="DIARY_TABS_TITLE" size="20" source="LiberationSerif-Regular.ttf"/>
+	<font gensize="16" name="Extras_HO_Title" shadowcolor="0:0:0:0" shadowoffset="1:1" size="16" source="CrimsonText-Italic.ttf"/>
+	<font gensize="18" name="Extras_Main_Description" size="18" source="CrimsonText-Italic.ttf"/>
+	<font gensize="20" name="Extras_Page_Title" shadowcolor="0:0:0:0" shadowoffset="2:0" size="20" source="CrimsonText-Italic.ttf"/>
+	<font gensize="32" name="Female_Text_Normal" size="32" source="Tangerine_Regular.ttf"/>
+	<font gensize="20" lineheight="29" name="Fishman_Large" size="20" source="Pirates_DirtyDarren.ttf"/>
+	<font gensize="17" lineheight="29" name="Fishman_Normal" size="17" source="Pirates_DirtyDarren.ttf"/>
+	<font gensize="24" name="Hall_Book_Header" size="24" source="NoticiaText-Regular.ttf"/>
+	<font gensize="18" lineheight="23" name="Hall_Book_Text" size="18" source="NoticiaText-Regular.ttf"/>
+	<font gensize="14" name="Hall_Book_Text_Description" size="14" source="NoticiaText-Regular.ttf"/>
+	<font gensize="22" name="Hall_Poster" shadowcolor="0:0:0:1" shadowoffset="2:2" size="22" source="Pirates_DirtyDarren.ttf"/>
+	<font gensize="22" name="Hall_Poster_No_Shadow" size="22" source="Pirates_DirtyDarren.ttf"/>
+	<font gensize="25" name="Hand_Dirty_Writing_Large" size="25" source="NeverLetGo.ttf"/>
+	<font gensize="20" name="Hand_Dirty_Writing_Normal" size="20" source="NeverLetGo.ttf"/>
+	<font gensize="24" name="Hand_Text_Large" size="24" source="TheGreatEscape.ttf"/>
+	<font gensize="18" name="Hand_Text_Normal" size="18" source="TheGreatEscape.ttf"/>
+	<font gensize="15" name="Hand_Text_Small" size="15" source="TheGreatEscape.ttf"/>
+	<font gensize="12" name="Hand_Text_X_Small" size="12" source="TheGreatEscape.ttf"/>
+	<font gensize="16" name="HELP_Buttons" size="16" source="CrimsonText-Italic.ttf"/>
+	<font gensize="10" name="HELP_HOList" size="10" source="LiberationSerif-Bold.ttf"/>
+	<font gensize="20" name="HELP_Large" size="20" source="CrimsonText-Italic.ttf"/>
+	<font gensize="28" name="HELP_PAGER" size="28" source="CrimsonText-Italic.ttf"/>
+	<font gensize="16" name="HELP_Scale_Buttons" size="16" source="CrimsonText-Italic.ttf"/>
+	<font gensize="19" name="HELP_Scale_Large" size="19" source="CrimsonText-Italic.ttf"/>
+	<font gensize="16" name="HELP_Small" size="16" source="CrimsonText-Italic.ttf"/>
+	<font gensize="28" name="HELP_TITLE" shadowcolor="0:0:0:1" shadowoffset="2:2" size="28" source="CrimsonText-Italic.ttf"/>
+	<font gensize="16" name="HUD_BlackBars" size="16" source="NoticiaText-Regular.ttf"/>
+	<font gensize="16" name="HUD_Bt_Hint" size="16" source="CrimsonText-Italic.ttf"/>
+	<font gensize="16" name="HUD_Bts" size="16" source="CrimsonText-Italic.ttf"/>
+	<font gensize="11" name="HUD_Bts_Mahjong" size="11" source="CrimsonText-Italic.ttf"/>
+	<font gensize="16" name="HUD_Comment" size="16" source="CrimsonText-Italic.ttf"/>
+	<font gensize="16" name="HUD_Comment_Default" shadowcolor="0:0:0:1" shadowoffset="2:2" size="16" source="CrimsonText-Italic.ttf"/>
+	<font gensize="16" name="HUD_Comment_Npc" shadowcolor="0:0:0:1" shadowoffset="2:2" size="16" source="CrimsonText-Italic.ttf"/>
+	<font gensize="20" name="HUD_Context" size="20" source="CrimsonText-Italic.ttf"/>
+	<font gensize="22" name="HUD_CursorContext" size="22" source="CrimsonText-Italic.ttf"/>
+	<font gensize="12" name="HUD_HOITEM_LABEL" size="12" source="LiberationSerif-Bold.ttf"/>
+	<font gensize="15" name="HUD_Item_Counter" size="15" source="UnJamoSora.ttf"/>
+	<font gensize="18" name="HUD_ITEM_LABEL" shadowcolor="0:0:0:1" shadowoffset="2:2" size="18" source="LiberationSerif-Bold.ttf"/>
+	<font gensize="20" name="HUD_ItemFindingWindow_ItemName" size="20" source="CrimsonText-Italic.ttf"/>
+	<font gensize="18" name="HUD_ItemFindingWindow_Text" size="18" source="CrimsonText-Italic.ttf"/>
+	<font gensize="18" name="HUD_ItemFindingWindow_WellDone" size="18" source="CrimsonText-Italic.ttf"/>
+	<font gensize="14" name="Hud_MG_Help" size="14" source="CrimsonText-Italic.ttf"/>
+	<font gensize="16" lineheight="33" name="HUD_New_Objective" size="16" source="LiberationSerif-Regular.ttf"/>
+	<font gensize="20" name="HUD_Skip" size="20" source="CrimsonText-Italic.ttf"/>
+	<font gensize="16" name="HUD_Title" size="16" source="CrimsonText-Italic.ttf"/>
+	<font gensize="16" name="HUD_Title_ho" size="16" source="CrimsonText-Italic.ttf"/>
+	<font gensize="16" name="HUD_Zooms" size="16" source="CrimsonText-Italic.ttf"/>
+	<font gensize="18" name="Lighthouse-Leaflet_Text" size="18" source="Marmelad-Regular.ttf"/>
+	<font gensize="32" name="Lighthouse-Leaflet_Title" size="32" source="Marmelad-Regular.ttf"/>
+	<font gensize="18" name="Loading" size="18" source="CrimsonText-Italic.ttf"/>
+	<font gensize="20" name="Mahjong_Text_Large" size="20" source="CrimsonText-Italic.ttf"/>
+	<font gensize="15" name="Mahjong_Text_Small" size="15" source="CrimsonText-Italic.ttf"/>
+	<font gensize="34" name="MainMenu_Button" shadowcolor="0:0:0:1" shadowoffset="2:2" size="34" source="CrimsonText-Italic.ttf"/>
+	<font gensize="20" name="MainMenu_Button_Medium" shadowcolor="0:0:0:1" shadowoffset="2:2" size="20" source="CrimsonText-Italic.ttf"/>
+	<font gensize="46" name="MainMenu_Large" size="46" source="MTCORSVA.TTF"/>
+	<font gensize="26" name="MainMenu_Medium" size="26" source="MTCORSVA.TTF"/>
+	<font gensize="32" name="MainMenu_Medium1" size="32" source="Marmelad-Regular.ttf"/>
+	<font gensize="24" name="MainMenu_Medium_2" size="24" source="Marmelad-Regular.ttf"/>
+	<font gensize="16" name="MainMenu_Profiles_Name" shadowcolor="0:0:0:1" shadowoffset="2:2" size="16" source="CrimsonText-Italic.ttf"/>
+	<font gensize="24" name="MainMenu_Profiles_Name_2" size="24" source="CrimsonText-Italic.ttf"/>
+	<font gensize="16" name="MainMenu_Profiles_Text" shadowcolor="0:0:0:1" shadowoffset="2:2" size="16" source="CrimsonText-Italic.ttf"/>
+	<font gensize="19" name="Map_Captains-cabin_Kingsmouth" size="19" source="NoticiaText-Regular.ttf"/>
+	<font gensize="16" name="MAP_Context" size="16" source="NoticiaText-Regular.ttf"/>
+	<font gensize="20" name="MAP_Text" size="20" source="CrimsonText-Italic.ttf"/>
+	<font gensize="26" name="MapDirections" size="26" source="LiberationSerif-Bold.ttf"/>
+	<font gensize="32" name="mg-code_mr-robertson" size="32" source="MTCORSVA.TTF"/>
+	<font gensize="43" name="MG_Code_Equal" size="43" source="NoticiaText-Regular.ttf"/>
+	<font gensize="22" name="MG_Safe_Numbers-handmade" size="22" source="TheGreatEscape.ttf"/>
+	<font gensize="28" name="Modern_Text_Large" size="28" source="NoticiaText-Regular.ttf"/>
+	<font gensize="22" name="Modern_Text_Normal" size="22" source="NoticiaText-Regular.ttf"/>
+	<font gensize="20" name="Modern_Text_Small" size="20" source="NoticiaText-Regular.ttf"/>
+	<font gensize="99" name="ModernText_Huge" size="99" source="NoticiaText-Regular.ttf"/>
+	<font gensize="22" name="NewFont" size="22" source="Norican-Regular.ttf"/>
+	<font gensize="12" name="NewFont_1" size="12" source="Norican-Regular.ttf"/>
+	<font gensize="16" name="Newspaper_Date" size="16" source="NoticiaText-Regular.ttf"/>
+	<font gensize="20" name="Newspaper_Frame_Text" size="20" source="CrimsonText-Italic.ttf"/>
+	<font gensize="20" name="Newspaper_Frame_Title" size="20" source="LiberationSerif-Bold.ttf"/>
+	<font gensize="29" name="Newspaper_Name" size="29" source="NoticiaText-Regular.ttf"/>
+	<font gensize="13" name="Newspaper_Text" size="13" source="NoticiaText-Regular.ttf"/>
+	<font gensize="22" name="Newspaper_Title" size="22" source="NoticiaText-Regular.ttf"/>
+	<font gensize="20" name="Office_Photo" shadowcolor="0:0:0:1" shadowoffset="2:2" size="20" source="TheGreatEscape.ttf"/>
+	<font gensize="20" lineheight="23" name="Office_Remington_Leaflet" size="20" source="NoticiaText-Regular.ttf"/>
+	<font gensize="22" name="Pac_dialog_game_subtitle" shadowcolor="0:0:0:0.588235" shadowoffset="0:2" size="22" source="PT_Sans-Web-Regular.ttf"/>
+	<font gensize="22" name="Pac_dialog_game_title" shadowcolor="0:0:0:0.588235" shadowoffset="0:2" size="22" source="PT_Sans-Web-Bold.ttf"/>
+	<font gensize="24" name="Pac_dialog_playnow" shadowcolor="1:0.886275:0.611765:1" shadowoffset="0:2" size="24" source="PT_Sans-Web-Bold.ttf"/>
+	<font gensize="16" name="Pac_dialog_text" size="16" source="PT_Sans-Web-Regular.ttf"/>
+	<font gensize="12" name="Pirate_Text_Tiny" size="12" source="Pirates_DirtyDarren.ttf"/>
+	<font gensize="22" lineheight="29" name="Pirate_Write_Large" size="22" source="Pirates_DirtyDarren.ttf"/>
+	<font gensize="16" lineheight="21" name="Pirate_Write_Normal" size="16" source="Pirates_DirtyDarren.ttf"/>
+	<font gensize="22" lineheight="29" name="Pirate_Write_popup_expo_title" size="22" source="Pirates_DirtyDarren.ttf"/>
+	<font gensize="14" name="Pirate_Write_popup_expo_text" size="14" source="Pirates_DirtyDarren.ttf"/>
+	<font gensize="14" name="Pirate_Write_Small" size="14" source="Pirates_DirtyDarren.ttf"/>
+	<font gensize="40" name="Plaque_Hall" shadowcolor="0:0:0:1" shadowoffset="1:1" size="40" source="CrimsonText-Italic.ttf"/>
+	<font gensize="30" name="Pop-up_Statue_Plaque" size="30" source="Norican-Regular.ttf"/>
+	<font gensize="20" name="Skip" size="20" source="CrimsonText-Italic.ttf"/>
+	<font gensize="22" name="Sound_Screen" size="22" source="CrimsonText-Italic.ttf"/>
+	<font gensize="19" name="Splashscreen" size="19" source="CrimsonText-Italic.ttf"/>
+	<font gensize="16" name="Strategy_Guide_Text" size="16" source="Kingston-Regular.ttf"/>
+	<font gensize="24" name="Strategy_Guide_Title" size="24" source="Kingston-Regular.ttf"/>
+	<font gensize="16" name="Tutorial_Skip" size="16" source="CrimsonText-Italic.ttf"/>
+	<font gensize="18" name="Tutorial_Text" size="18" source="CrimsonText-Italic.ttf"/>
+	<font gensize="8" name="Version" size="8" source="Inconsolata.ttf"/>
+	<font gensize="16" name="Wallpaper_Saved" size="16" source="Kingston-Regular.ttf"/>
+	<font gensize="14" name="Wallpaper_small" size="14" source="CrimsonText-Italic.ttf"/>
+	<font gensize="27" name="Zoom_Modern_Text_Large" size="27" source="NoticiaText-Regular.ttf"/>
+	<font gensize="17" name="Zoom_Modern_Text_Small" size="17" source="NoticiaText-Regular.ttf"/>
+	<font gensize="18" name="Zoom_Tutorial_Skip" size="18" source="CrimsonText-Italic.ttf"/>
+	<font gensize="20" name="Zoom_Tutorial_Text" size="20" source="CrimsonText-Italic.ttf"/>
+	<language name="cs">
+		<font gensize="17" lineheight="29" name="Fishman_Normal" size="17" source="TheGreatEscape.ttf"/>
+		<font gensize="14" name="Pirate_Write_Small" size="14" source="TheGreatEscape.ttf"/>
+		<font gensize="12" name="Pirate_Text_Tiny" size="12" source="TheGreatEscape.ttf"/>
+		<font gensize="22" lineheight="29" name="Pirate_Write_Large" size="22" source="TheGreatEscape.ttf"/>
+		<font gensize="16" lineheight="21" name="Pirate_Write_Normal" size="16" source="TheGreatEscape.ttf"/>
+		<font gensize="22" lineheight="29" name="Pirate_Write_popup_expo_title" size="22" source="TheGreatEscape.ttf"/>
+		<font gensize="14" name="Pirate_Write_popup_expo_text" size="14" source="TheGreatEscape.ttf"/>
+		<font baselineyoffset="7" gensize="16" lineheight="16" name="HUD_Title_ho" size="16" source="CrimsonText-Italic.ttf"/>
+	</language>
+	<language name="de">
+		<font gensize="24" name="HELP_TITLE" shadowcolor="0:0:0:1" shadowoffset="2:2" size="24" source="CrimsonText-Italic.ttf"/>
+	</language>
+	<language name="nl">
+		<font baselineyoffset="1" gensize="16" lineheight="19" name="HUD_Title" size="16" source="CrimsonText-Italic.ttf"/>
+	</language>
+	<language name="it">
+		<font baselineyoffset="6" gensize="20" lineheight="25" name="MainMenu_Button_Medium" shadowcolor="0:0:0:1" shadowoffset="2:2" size="20" source="CrimsonText-Italic.ttf"/>
+		<font baselineyoffset="3" gensize="18" lineheight="23" name="Dialog_Title" shadowcolor="0:0:0:1" shadowoffset="2:2" size="18" source="CrimsonText-Italic.ttf"/>
+	</language>
+	<language name="es">
+		<font baselineyoffset="3" gensize="21" lineheight="32" name="DIARY_OBJECTIVE_TITLE_Small" size="21" source="TheGreatEscape.ttf"/>
+	</language>
+	<language name="ko">
+		<font gensize="13" name="achievement-2_desc" size="13" source="NanumGothic.ttf"/>
+		<font gensize="18" name="achievement-2_post" shadowcolor="0.443137:0.443137:0.443137:1" shadowoffset="1:1" size="18" source="NanumGothic.ttf"/>
+		<font gensize="13" lineheight="17" name="achievement_desc" shadowcolor="0:0:0:1" shadowoffset="-2:-2" size="13" source="NanumGothic.ttf"/>
+		<font gensize="18" name="achievement_post" shadowcolor="0:0:0:0" shadowoffset="-2:-2" size="18" source="NanumGothic.ttf"/>
+		<font gensize="18" name="Achievement_title" shadowcolor="0:0:0:0" shadowoffset="-2:-2" size="18" source="NanumGothic.ttf"/>
+		<font gensize="41" name="AGD_Telephone-Panel" size="41" source="NanumGothic.ttf"/>
+		<font gensize="16" lineheight="23" name="Book-Leaflet_Header-1" size="16" source="NanumGothic.ttf"/>
+		<font gensize="20" lineheight="23" name="Book-Leaflet_Header-2" size="20" source="NanumGothic.ttf"/>
+		<font gensize="10" name="Book_Office_Author" size="10" source="NanumGothic.ttf"/>
+		<font gensize="19" name="Book_Office_Price" size="19" source="NanumGothic.ttf"/>
+		<font gensize="10" name="Book_Office_Title" size="10" source="NanumGothic.ttf"/>
+		<font gensize="24" name="Book_Sarah_Author" size="24" source="NanumGothic.ttf"/>
+		<font gensize="23" lineheight="27" name="Book_Sarah_Title" size="23" source="NanumGothic.ttf"/>
+		<font gensize="26" name="Capitans_Journal_Large" size="26" source="NanumGothic.ttf"/>
+		<font gensize="30" name="Capitans_Journal_MediumLarge" size="30" source="NanumGothic.ttf"/>
+		<font gensize="18" name="Capitans_Journal_Normal" size="18" source="NanumGothic.ttf"/>
+		<font gensize="13" name="Capitans_Journal_Small" size="13" source="NanumGothic.ttf"/>
+		<font gensize="59" name="Capitans_Journal_XLarge" size="59" source="NanumGothic.ttf"/>
+		<font gensize="18" name="Captains_Photo" size="18" source="NanumGothic.ttf"/>
+		<font gensize="32" name="CaseDispaly" size="32" source="NanumGothic.ttf"/>
+		<font gensize="20" name="ClickToContinue" size="20" source="NanumGothic.ttf"/>
+		<font gensize="16" name="Credits_Buttons" size="16" source="NanumGothic.ttf"/>
+		<font gensize="30" name="Credits_function" size="30" source="NanumGothic.ttf"/>
+		<font gensize="25" name="Credits_name" size="25" source="NoticiaText-Regular.ttf"/>
+		<font gensize="16" name="Crypt_Diary_Normal" size="16" source="NanumGothic.ttf"/>
+		<font gensize="16" name="Cutscene" size="16" source="NanumGothic.ttf"/>
+		<font gensize="10" name="Debug" size="10" source="Inconsolata.ttf"/>
+		<font gensize="8" name="Default" size="8" source="DejaVuSans.ttf"/>
+		<font gensize="18" name="Dialog_Btn" shadowcolor="0:0:0:1" shadowoffset="2:2" size="18" source="NanumGothic.ttf"/>
+		<font gensize="17" name="Dialog_Btn_Create_Profile" shadowcolor="0:0:0:1" shadowoffset="2:2" size="17" source="NanumGothic.ttf"/>
+		<font gensize="15" name="DIALOG_CORRUPTED_PROFILE" size="15" source="NanumGothic.ttf"/>
+		<font gensize="72" name="Dialog_Extras_DemoFilter" shadowcolor="0:0:0:0" shadowoffset="4:4" size="72" source="NanumGothic.ttf"/>
+		<font gensize="24" name="Dialog_Extras_Large" size="24" source="NanumGothic.ttf"/>
+		<font gensize="18" name="Dialog_Extras_Normal" size="18" source="NanumGothic.ttf"/>
+		<font gensize="17" name="Dialog_Extras_Normal_Music-Saved" size="17" source="NanumGothic.ttf"/>
+		<font gensize="10" name="Dialog_Extras_Small" size="10" source="NanumGothic.ttf"/>
+		<font gensize="22" name="Dialog_InGame_Btn" shadowcolor="0:0:0:1" shadowoffset="2:2" size="22" source="NanumGothic.ttf"/>
+		<font gensize="18" name="Dialog_InGame_Title" shadowcolor="0:0:0:1" shadowoffset="2:2" size="18" source="NanumGothic.ttf"/>
+		<font gensize="16" name="Dialog_MoreInfo" size="16" source="NanumGothic.ttf"/>
+		<font gensize="17" name="Dialog_profil_name" size="17" source="NanumGothic.ttf"/>
+		<font gensize="22" name="Dialog_Text" shadowcolor="0:0:0:1" shadowoffset="2:2" size="22" source="NanumGothic.ttf"/>
+		<font gensize="18" name="Dialog_Text_18" size="18" source="NanumGothic.ttf"/>
+		<font gensize="17" name="Dialog_Text_Create_Profile" size="17" source="NanumGothic.ttf"/>
+		<font gensize="22" lineheight="23" name="Dialog_Text_DifficultyLevel" shadowcolor="0:0:0:1" shadowoffset="2:2" size="22" source="NanumGothic.ttf"/>
+		<font gensize="18" name="Dialog_Title" shadowcolor="0:0:0:1" shadowoffset="2:2" size="18" source="NanumGothic.ttf"/>
+		<font gensize="17" name="Dialog_Title_Create_Profile" shadowcolor="0:0:0:1" shadowoffset="2:2" size="17" source="NanumGothic.ttf"/>
+		<font gensize="18" name="DIARY_OBJECTIVE_DESC" size="18" source="NanumGothic.ttf"/>
+		<font gensize="14" lineheight="32" name="DIARY_OBJECTIVE_SHORT_DESC" size="14" source="NanumGothic.ttf"/>
+		<font gensize="28" name="DIARY_OBJECTIVE_TITLE_Large" size="28" source="NanumGothic.ttf"/>
+		<font gensize="21" name="DIARY_OBJECTIVE_TITLE_Small" size="21" source="NanumGothic.ttf"/>
+		<font gensize="20" name="DIARY_Pages" size="20" source="NanumGothic.ttf"/>
+		<font gensize="20" name="DIARY_TABS_TITLE" size="20" source="NanumGothic.ttf"/>
+		<font gensize="16" name="Extras_HO_Title" shadowcolor="0:0:0:0" shadowoffset="1:1" size="16" source="NanumGothic.ttf"/>
+		<font gensize="18" name="Extras_Main_Description" size="18" source="NanumGothic.ttf"/>
+		<font gensize="20" name="Extras_Page_Title" shadowcolor="0:0:0:0" shadowoffset="2:0" size="20" source="NanumGothic.ttf"/>
+		<font gensize="32" name="Female_Text_Normal" size="32" source="NanumGothic.ttf"/>
+		<font gensize="20" lineheight="29" name="Fishman_Large" size="20" source="NanumGothic.ttf"/>
+		<font gensize="17" lineheight="29" name="Fishman_Normal" size="17" source="NanumGothic.ttf"/>
+		<font gensize="24" name="Hall_Book_Header" size="24" source="NanumGothic.ttf"/>
+		<font gensize="18" lineheight="23" name="Hall_Book_Text" size="18" source="NanumGothic.ttf"/>
+		<font gensize="14" name="Hall_Book_Text_Description" size="14" source="NanumGothic.ttf"/>
+		<font gensize="22" name="Hall_Poster" shadowcolor="0:0:0:1" shadowoffset="2:2" size="22" source="NanumGothic.ttf"/>
+		<font gensize="22" name="Hall_Poster_No_Shadow" size="22" source="NanumGothic.ttf"/>
+		<font gensize="25" name="Hand_Dirty_Writing_Large" size="25" source="NanumGothic.ttf"/>
+		<font gensize="20" name="Hand_Dirty_Writing_Normal" size="20" source="NanumGothic.ttf"/>
+		<font gensize="24" name="Hand_Text_Large" size="24" source="NanumGothic.ttf"/>
+		<font gensize="18" name="Hand_Text_Normal" size="18" source="NanumGothic.ttf"/>
+		<font gensize="15" name="Hand_Text_Small" size="15" source="NanumGothic.ttf"/>
+		<font gensize="12" name="Hand_Text_X_Small" size="12" source="NanumGothic.ttf"/>
+		<font gensize="16" name="HELP_Buttons" size="16" source="NanumGothic.ttf"/>
+		<font gensize="12" name="HELP_HOList" size="12" source="NanumGothic.ttf"/>
+		<font gensize="20" name="HELP_Large" size="20" source="NanumGothic.ttf"/>
+		<font gensize="28" name="HELP_PAGER" size="28" source="NanumGothic.ttf"/>
+		<font gensize="16" name="HELP_Scale_Buttons" size="16" source="NanumGothic.ttf"/>
+		<font gensize="19" name="HELP_Scale_Large" size="19" source="NanumGothic.ttf"/>
+		<font gensize="16" name="HELP_Small" size="16" source="NanumGothic.ttf"/>
+		<font gensize="28" name="HELP_TITLE" shadowcolor="0:0:0:1" shadowoffset="2:2" size="28" source="NanumGothic.ttf"/>
+		<font gensize="16" name="HUD_BlackBars" size="16" source="NanumGothic.ttf"/>
+		<font gensize="12" name="HUD_Bt_Hint" size="12" source="NanumGothic.ttf"/>
+		<font gensize="10" name="HUD_Bts" size="10" source="NanumGothic.ttf"/>
+		<font gensize="11" name="HUD_Bts_Mahjong" size="11" source="NanumGothic.ttf"/>
+		<font gensize="16" name="HUD_Comment" size="16" source="NanumGothic.ttf"/>
+		<font gensize="16" name="HUD_Comment_Default" shadowcolor="0:0:0:1" shadowoffset="2:2" size="16" source="NanumGothic.ttf"/>
+		<font gensize="16" name="HUD_Comment_Npc" shadowcolor="0:0:0:1" shadowoffset="2:2" size="16" source="NanumGothic.ttf"/>
+		<font gensize="20" name="HUD_Context" size="20" source="NanumGothic.ttf"/>
+		<font gensize="22" name="HUD_CursorContext" size="22" source="NanumGothic.ttf"/>
+		<font gensize="12" name="HUD_HOITEM_LABEL" size="12" source="NanumGothic.ttf"/>
+		<font gensize="15" name="HUD_Item_Counter" size="15" source="NanumGothic.ttf"/>
+		<font gensize="18" name="HUD_ITEM_LABEL" shadowcolor="0:0:0:1" shadowoffset="2:2" size="18" source="NanumGothic.ttf"/>
+		<font gensize="20" name="HUD_ItemFindingWindow_ItemName" size="20" source="NanumGothic.ttf"/>
+		<font gensize="18" name="HUD_ItemFindingWindow_Text" size="18" source="NanumGothic.ttf"/>
+		<font gensize="18" name="HUD_ItemFindingWindow_WellDone" size="18" source="NanumGothic.ttf"/>
+		<font gensize="14" name="Hud_MG_Help" size="14" source="NanumGothic.ttf"/>
+		<font gensize="16" lineheight="33" name="HUD_New_Objective" size="16" source="NanumGothic.ttf"/>
+		<font gensize="20" name="HUD_Skip" size="20" source="NanumGothic.ttf"/>
+		<font gensize="14" name="HUD_Title" size="14" source="NanumGothic.ttf"/>
+		<font gensize="14" name="HUD_Title_ho" size="14" source="NanumGothic.ttf"/>
+		<font gensize="16" name="HUD_Zooms" size="16" source="NanumGothic.ttf"/>
+		<font gensize="18" name="Lighthouse-Leaflet_Text" size="18" source="NanumGothic.ttf"/>
+		<font gensize="32" name="Lighthouse-Leaflet_Title" size="32" source="NanumGothic.ttf"/>
+		<font gensize="18" name="Loading" size="18" source="NanumGothic.ttf"/>
+		<font gensize="20" name="Mahjong_Text_Large" size="20" source="NanumGothic.ttf"/>
+		<font gensize="15" name="Mahjong_Text_Small" size="15" source="NanumGothic.ttf"/>
+		<font gensize="34" name="MainMenu_Button" shadowcolor="0:0:0:1" shadowoffset="2:2" size="34" source="NanumGothic.ttf"/>
+		<font gensize="20" name="MainMenu_Button_Medium" shadowcolor="0:0:0:1" shadowoffset="2:2" size="20" source="NanumGothic.ttf"/>
+		<font gensize="46" name="MainMenu_Large" size="46" source="NanumGothic.ttf"/>
+		<font gensize="26" name="MainMenu_Medium" size="26" source="NanumGothic.ttf"/>
+		<font gensize="27" name="MainMenu_Medium1" size="32" source="NanumGothic.ttf"/>
+		<font gensize="10" name="MainMenu_Medium_2" size="24" source="NanumGothic.ttf"/>
+		<font gensize="16" name="MainMenu_Profiles_Name" shadowcolor="0:0:0:1" shadowoffset="2:2" size="16" source="NanumGothic.ttf"/>
+		<font gensize="24" name="MainMenu_Profiles_Name_2" size="24" source="NanumGothic.ttf"/>
+		<font gensize="16" name="MainMenu_Profiles_Text" shadowcolor="0:0:0:1" shadowoffset="2:2" size="16" source="NanumGothic.ttf"/>
+		<font gensize="19" name="Map_Captains-cabin_Kingsmouth" size="19" source="NanumGothic.ttf"/>
+		<font gensize="16" name="MAP_Context" size="16" source="NanumGothic.ttf"/>
+		<font gensize="20" name="MAP_Text" size="20" source="NanumGothic.ttf"/>
+		<font gensize="26" name="MapDirections" size="26" source="NanumGothic.ttf"/>
+		<font gensize="32" name="mg-code_mr-robertson" size="32" source="NanumGothic.ttf"/>
+		<font gensize="43" name="MG_Code_Equal" size="43" source="NanumGothic.ttf"/>
+		<font gensize="22" name="MG_Safe_Numbers-handmade" size="22" source="NanumGothic.ttf"/>
+		<font gensize="28" name="Modern_Text_Large" size="28" source="NanumGothic.ttf"/>
+		<font gensize="22" name="Modern_Text_Normal" size="22" source="NanumGothic.ttf"/>
+		<font gensize="20" name="Modern_Text_Small" size="20" source="NanumGothic.ttf"/>
+		<font gensize="99" name="ModernText_Huge" size="99" source="NanumGothic.ttf"/>
+		<font gensize="22" name="NewFont" size="22" source="NanumGothic.ttf"/>
+		<font gensize="12" name="NewFont_1" size="12" source="NanumGothic.ttf"/>
+		<font gensize="16" name="Newspaper_Date" size="16" source="NanumGothic.ttf"/>
+		<font gensize="20" name="Newspaper_Frame_Text" size="20" source="NanumGothic.ttf"/>
+		<font gensize="20" name="Newspaper_Frame_Title" size="20" source="NanumGothic.ttf"/>
+		<font gensize="29" name="Newspaper_Name" size="29" source="NanumGothic.ttf"/>
+		<font gensize="13" name="Newspaper_Text" size="13" source="NanumGothic.ttf"/>
+		<font gensize="22" name="Newspaper_Title" size="22" source="NanumGothic.ttf"/>
+		<font gensize="20" name="Office_Photo" shadowcolor="0:0:0:1" shadowoffset="2:2" size="20" source="NanumGothic.ttf"/>
+		<font gensize="20" lineheight="23" name="Office_Remington_Leaflet" size="20" source="NanumGothic.ttf"/>
+		<font gensize="22" name="Pac_dialog_game_subtitle" shadowcolor="0:0:0:0.588235" shadowoffset="0:2" size="22" source="NanumGothic.ttf"/>
+		<font gensize="22" name="Pac_dialog_game_title" shadowcolor="0:0:0:0.588235" shadowoffset="0:2" size="22" source="NanumGothic.ttf"/>
+		<font gensize="24" name="Pac_dialog_playnow" shadowcolor="1:0.886275:0.611765:1" shadowoffset="0:2" size="24" source="NanumGothic.ttf"/>
+		<font gensize="16" name="Pac_dialog_text" size="16" source="NanumGothic.ttf"/>
+		<font gensize="12" name="Pirate_Text_Tiny" size="12" source="NanumGothic.ttf"/>
+		<font gensize="22" lineheight="29" name="Pirate_Write_Large" size="22" source="NanumGothic.ttf"/>
+		<font gensize="16" lineheight="21" name="Pirate_Write_Normal" size="16" source="NanumGothic.ttf"/>
+		<font gensize="26" lineheight="29" name="Pirate_Write_popup_expo_title" size="26" source="NanumGothic.ttf"/>
+		<font gensize="18" name="Pirate_Write_popup_expo_text" size="18" source="NanumGothic.ttf"/>
+		<font gensize="14" name="Pirate_Write_Small" size="14" source="NanumGothic.ttf"/>
+		<font gensize="40" name="Plaque_Hall" shadowcolor="0:0:0:1" shadowoffset="1:1" size="40" source="NanumGothic.ttf"/>
+		<font gensize="30" name="Pop-up_Statue_Plaque" size="30" source="NanumGothic.ttf"/>
+		<font gensize="20" name="Skip" size="20" source="NanumGothic.ttf"/>
+		<font gensize="22" name="Sound_Screen" size="22" source="NanumGothic.ttf"/>
+		<font gensize="19" name="Splashscreen" size="19" source="NanumGothic.ttf"/>
+		<font gensize="16" name="Strategy_Guide_Text" size="16" source="NanumGothic.ttf"/>
+		<font gensize="24" name="Strategy_Guide_Title" size="24" source="NanumGothic.ttf"/>
+		<font gensize="16" name="Tutorial_Skip" size="16" source="NanumGothic.ttf"/>
+		<font gensize="18" name="Tutorial_Text" size="18" source="NanumGothic.ttf"/>
+		<font gensize="8" name="Version" size="8" source="Inconsolata.ttf"/>
+		<font gensize="16" name="Wallpaper_Saved" size="16" source="NanumGothic.ttf"/>
+		<font gensize="14" name="Wallpaper_small" size="14" source="NanumGothic.ttf"/>
+		<font gensize="27" name="Zoom_Modern_Text_Large" size="27" source="NanumGothic.ttf"/>
+		<font gensize="17" name="Zoom_Modern_Text_Small" size="17" source="NanumGothic.ttf"/>
+		<font gensize="18" name="Zoom_Tutorial_Skip" size="18" source="NanumGothic.ttf"/>
+		<font gensize="20" name="Zoom_Tutorial_Text" size="20" source="NanumGothic.ttf"/>
+	</language>
+	<language name="ja">
+		<font gensize="13" name="achievement-2_desc" size="13" source="KozGoPro-Regular.ttf"/>
+		<font gensize="18" name="achievement-2_post" shadowcolor="0.443137:0.443137:0.443137:1" shadowoffset="1:1" size="18" source="KozGoPro-Regular.ttf"/>
+		<font gensize="13" lineheight="17" name="achievement_desc" shadowcolor="0:0:0:1" shadowoffset="-2:-2" size="13" source="KozGoPro-Regular.ttf"/>
+		<font gensize="18" name="achievement_post" shadowcolor="0:0:0:0" shadowoffset="-2:-2" size="18" source="KozGoPro-Regular.ttf"/>
+		<font gensize="18" name="Achievement_title" shadowcolor="0:0:0:0" shadowoffset="-2:-2" size="18" source="KozGoPro-Regular.ttf"/>
+		<font gensize="41" name="AGD_Telephone-Panel" size="41" source="KozGoPro-Regular.ttf"/>
+		<font gensize="16" lineheight="23" name="Book-Leaflet_Header-1" size="16" source="KozGoPro-Regular.ttf"/>
+		<font gensize="20" lineheight="23" name="Book-Leaflet_Header-2" size="20" source="KozGoPro-Regular.ttf"/>
+		<font gensize="10" name="Book_Office_Author" size="10" source="KozGoPro-Regular.ttf"/>
+		<font gensize="19" name="Book_Office_Price" size="19" source="KozGoPro-Regular.ttf"/>
+		<font gensize="10" name="Book_Office_Title" size="10" source="KozGoPro-Regular.ttf"/>
+		<font gensize="24" name="Book_Sarah_Author" size="24" source="KozGoPro-Regular.ttf"/>
+		<font gensize="23" lineheight="27" name="Book_Sarah_Title" size="23" source="KozGoPro-Regular.ttf"/>
+		<font gensize="26" name="Capitans_Journal_Large" size="26" source="YOzRAPro.ttf"/>
+		<font gensize="30" name="Capitans_Journal_MediumLarge" size="30" source="YOzRAPro.ttf"/>
+		<font gensize="18" name="Capitans_Journal_Normal" size="18" source="YOzRAPro.ttf"/>
+		<font gensize="13" name="Capitans_Journal_Small" size="13" source="YOzRAPro.ttf"/>
+		<font gensize="59" name="Capitans_Journal_XLarge" size="59" source="YOzRAPro.ttf"/>
+		<font gensize="18" name="Captains_Photo" size="18" source="KozGoPro-Regular.ttf"/>
+		<font gensize="32" name="CaseDispaly" size="32" source="KozGoPro-Regular.ttf"/>
+		<font gensize="20" name="ClickToContinue" size="20" source="KozGoPro-Regular.ttf"/>
+		<font gensize="16" name="Credits_Buttons" size="16" source="KozGoPro-Regular.ttf"/>
+		<font gensize="30" name="Credits_function" size="30" source="KozGoPro-Regular.ttf"/>
+		<font gensize="25" name="Credits_name" size="25" source="NoticiaText-Regular.ttf"/>
+		<font gensize="16" name="Crypt_Diary_Normal" size="16" source="KozGoPro-Regular.ttf"/>
+		<font gensize="16" name="Cutscene" size="16" source="KozGoPro-Regular.ttf"/>
+		<font gensize="10" name="Debug" size="10" source="Inconsolata.ttf"/>
+		<font gensize="8" name="Default" size="8" source="DejaVuSans.ttf"/>
+		<font gensize="18" name="Dialog_Btn" shadowcolor="0:0:0:1" shadowoffset="2:2" size="18" source="KozGoPro-Regular.ttf"/>
+		<font gensize="17" name="Dialog_Btn_Create_Profile" shadowcolor="0:0:0:1" shadowoffset="2:2" size="17" source="KozGoPro-Regular.ttf"/>
+		<font gensize="15" name="DIALOG_CORRUPTED_PROFILE" size="15" source="KozGoPro-Regular.ttf"/>
+		<font gensize="72" name="Dialog_Extras_DemoFilter" shadowcolor="0:0:0:0" shadowoffset="4:4" size="72" source="KozGoPro-Regular.ttf"/>
+		<font gensize="24" name="Dialog_Extras_Large" size="24" source="KozGoPro-Regular.ttf"/>
+		<font gensize="18" name="Dialog_Extras_Normal" size="18" source="KozGoPro-Regular.ttf"/>
+		<font gensize="17" name="Dialog_Extras_Normal_Music-Saved" size="17" source="KozGoPro-Regular.ttf"/>
+		<font gensize="10" name="Dialog_Extras_Small" size="10" source="KozGoPro-Regular.ttf"/>
+		<font gensize="22" name="Dialog_InGame_Btn" shadowcolor="0:0:0:1" shadowoffset="2:2" size="22" source="KozGoPro-Regular.ttf"/>
+		<font gensize="18" name="Dialog_InGame_Title" shadowcolor="0:0:0:1" shadowoffset="2:2" size="18" source="KozGoPro-Regular.ttf"/>
+		<font gensize="16" name="Dialog_MoreInfo" size="16" source="KozGoPro-Regular.ttf"/>
+		<font gensize="17" name="Dialog_profil_name" size="17" source="KozGoPro-Regular.ttf"/>
+		<font gensize="22" name="Dialog_Text" shadowcolor="0:0:0:1" shadowoffset="2:2" size="22" source="KozGoPro-Regular.ttf"/>
+		<font gensize="18" name="Dialog_Text_18" size="18" source="KozGoPro-Regular.ttf"/>
+		<font gensize="17" name="Dialog_Text_Create_Profile" size="17" source="KozGoPro-Regular.ttf"/>
+		<font gensize="22" lineheight="23" name="Dialog_Text_DifficultyLevel" shadowcolor="0:0:0:1" shadowoffset="2:2" size="22" source="KozGoPro-Regular.ttf"/>
+		<font gensize="18" name="Dialog_Title" shadowcolor="0:0:0:1" shadowoffset="2:2" size="18" source="KozGoPro-Regular.ttf"/>
+		<font gensize="17" name="Dialog_Title_Create_Profile" shadowcolor="0:0:0:1" shadowoffset="2:2" size="17" source="KozGoPro-Regular.ttf"/>
+		<font gensize="18" name="DIARY_OBJECTIVE_DESC" size="18" source="KozGoPro-Regular.ttf"/>
+		<font gensize="14" lineheight="32" name="DIARY_OBJECTIVE_SHORT_DESC" size="14" source="KozGoPro-Regular.ttf"/>
+		<font gensize="28" name="DIARY_OBJECTIVE_TITLE_Large" size="28" source="KozGoPro-Regular.ttf"/>
+		<font gensize="21" name="DIARY_OBJECTIVE_TITLE_Small" size="21" source="KozGoPro-Regular.ttf"/>
+		<font gensize="20" name="DIARY_Pages" size="20" source="KozGoPro-Regular.ttf"/>
+		<font gensize="20" name="DIARY_TABS_TITLE" size="20" source="KozGoPro-Regular.ttf"/>
+		<font gensize="16" name="Extras_HO_Title" shadowcolor="0:0:0:0" shadowoffset="1:1" size="16" source="KozGoPro-Regular.ttf"/>
+		<font gensize="18" name="Extras_Main_Description" size="18" source="KozGoPro-Regular.ttf"/>
+		<font gensize="20" name="Extras_Page_Title" shadowcolor="0:0:0:0" shadowoffset="2:0" size="20" source="KozGoPro-Regular.ttf"/>
+		<font gensize="32" name="Female_Text_Normal" size="32" source="KozGoPro-Regular.ttf"/>
+		<font gensize="20" lineheight="29" name="Fishman_Large" size="20" source="KozGoPro-Regular.ttf"/>
+		<font gensize="17" lineheight="29" name="Fishman_Normal" size="17" source="KozGoPro-Regular.ttf"/>
+		<font gensize="24" name="Hall_Book_Header" size="24" source="KozGoPro-Regular.ttf"/>
+		<font gensize="18" lineheight="23" name="Hall_Book_Text" size="18" source="KozGoPro-Regular.ttf"/>
+		<font gensize="14" name="Hall_Book_Text_Description" size="14" source="KozGoPro-Regular.ttf"/>
+		<font gensize="22" name="Hall_Poster" shadowcolor="0:0:0:1" shadowoffset="2:2" size="22" source="KozGoPro-Regular.ttf"/>
+		<font gensize="22" name="Hall_Poster_No_Shadow" size="22" source="KozGoPro-Regular.ttf"/>
+		<font gensize="25" name="Hand_Dirty_Writing_Large" size="25" source="KozGoPro-Regular.ttf"/>
+		<font gensize="20" name="Hand_Dirty_Writing_Normal" size="20" source="KozGoPro-Regular.ttf"/>
+		<font gensize="24" name="Hand_Text_Large" size="24" source="YOzRAPro.ttf"/>
+		<font gensize="18" name="Hand_Text_Normal" size="18" source="YOzRAPro.ttf"/>
+		<font gensize="15" name="Hand_Text_Small" size="15" source="YOzRAPro.ttf"/>
+		<font gensize="12" name="Hand_Text_X_Small" size="12" source="YOzRAPro.ttf"/>
+		<font gensize="16" name="HELP_Buttons" size="16" source="KozGoPro-Regular.ttf"/>
+		<font gensize="12" name="HELP_HOList" size="12" source="KozGoPro-Regular.ttf"/>
+		<font gensize="20" name="HELP_Large" size="20" source="KozGoPro-Regular.ttf"/>
+		<font gensize="28" name="HELP_PAGER" size="28" source="KozGoPro-Regular.ttf"/>
+		<font gensize="16" name="HELP_Scale_Buttons" size="16" source="KozGoPro-Regular.ttf"/>
+		<font gensize="19" name="HELP_Scale_Large" size="19" source="KozGoPro-Regular.ttf"/>
+		<font gensize="16" name="HELP_Small" size="16" source="KozGoPro-Regular.ttf"/>
+		<font gensize="28" name="HELP_TITLE" shadowcolor="0:0:0:1" shadowoffset="2:2" size="28" source="KozGoPro-Regular.ttf"/>
+		<font gensize="16" name="HUD_BlackBars" size="16" source="KozGoPro-Regular.ttf"/>
+		<font gensize="12" name="HUD_Bt_Hint" size="12" source="KozGoPro-Regular.ttf"/>
+		<font gensize="10" name="HUD_Bts" size="10" source="KozGoPro-Regular.ttf"/>
+		<font gensize="11" name="HUD_Bts_Mahjong" size="11" source="KozGoPro-Regular.ttf"/>
+		<font gensize="16" name="HUD_Comment" size="16" source="KozGoPro-Regular.ttf"/>
+		<font gensize="16" name="HUD_Comment_Default" shadowcolor="0:0:0:1" shadowoffset="2:2" size="16" source="KozGoPro-Regular.ttf"/>
+		<font gensize="16" name="HUD_Comment_Npc" shadowcolor="0:0:0:1" shadowoffset="2:2" size="16" source="KozGoPro-Regular.ttf"/>
+		<font gensize="20" name="HUD_Context" size="20" source="KozGoPro-Regular.ttf"/>
+		<font gensize="22" name="HUD_CursorContext" size="22" source="KozGoPro-Regular.ttf"/>
+		<font gensize="12" name="HUD_HOITEM_LABEL" size="12" source="KozGoPro-Regular.ttf"/>
+		<font gensize="15" name="HUD_Item_Counter" size="15" source="KozGoPro-Regular.ttf"/>
+		<font gensize="18" name="HUD_ITEM_LABEL" shadowcolor="0:0:0:1" shadowoffset="2:2" size="18" source="KozGoPro-Regular.ttf"/>
+		<font gensize="20" name="HUD_ItemFindingWindow_ItemName" size="20" source="KozGoPro-Regular.ttf"/>
+		<font gensize="18" name="HUD_ItemFindingWindow_Text" size="18" source="KozGoPro-Regular.ttf"/>
+		<font gensize="18" name="HUD_ItemFindingWindow_WellDone" size="18" source="KozGoPro-Regular.ttf"/>
+		<font gensize="14" name="Hud_MG_Help" size="14" source="KozGoPro-Regular.ttf"/>
+		<font gensize="16" lineheight="33" name="HUD_New_Objective" size="16" source="KozGoPro-Regular.ttf"/>
+		<font gensize="20" name="HUD_Skip" size="20" source="KozGoPro-Regular.ttf"/>
+		<font gensize="14" name="HUD_Title" size="14" source="KozGoPro-Regular.ttf"/>
+		<font gensize="14" name="HUD_Title_ho" size="14" source="KozGoPro-Regular.ttf"/>
+		<font gensize="16" name="HUD_Zooms" size="16" source="KozGoPro-Regular.ttf"/>
+		<font gensize="18" name="Lighthouse-Leaflet_Text" size="18" source="KozGoPro-Regular.ttf"/>
+		<font gensize="32" name="Lighthouse-Leaflet_Title" size="32" source="KozGoPro-Regular.ttf"/>
+		<font gensize="18" name="Loading" size="18" source="KozGoPro-Regular.ttf"/>
+		<font gensize="20" name="Mahjong_Text_Large" size="20" source="KozGoPro-Regular.ttf"/>
+		<font gensize="15" name="Mahjong_Text_Small" size="15" source="KozGoPro-Regular.ttf"/>
+		<font gensize="34" name="MainMenu_Button" shadowcolor="0:0:0:1" shadowoffset="2:2" size="34" source="KozGoPro-Regular.ttf"/>
+		<font gensize="20" name="MainMenu_Button_Medium" shadowcolor="0:0:0:1" shadowoffset="2:2" size="20" source="KozGoPro-Regular.ttf"/>
+		<font gensize="46" name="MainMenu_Large" size="46" source="KozGoPro-Regular.ttf"/>
+		<font gensize="26" name="MainMenu_Medium" size="26" source="KozGoPro-Regular.ttf"/>
+		<font gensize="27" name="MainMenu_Medium1" size="32" source="KozGoPro-Medium.ttf"/>
+		<font gensize="10" name="MainMenu_Medium_2" size="24" source="KozGoPro-Medium.ttf"/>
+		<font gensize="16" name="MainMenu_Profiles_Name" shadowcolor="0:0:0:1" shadowoffset="2:2" size="16" source="KozGoPro-Regular.ttf"/>
+		<font gensize="24" name="MainMenu_Profiles_Name_2" size="24" source="KozGoPro-Regular.ttf"/>
+		<font gensize="16" name="MainMenu_Profiles_Text" shadowcolor="0:0:0:1" shadowoffset="2:2" size="16" source="KozGoPro-Regular.ttf"/>
+		<font gensize="19" name="Map_Captains-cabin_Kingsmouth" size="19" source="KozGoPro-Regular.ttf"/>
+		<font gensize="16" name="MAP_Context" size="16" source="KozGoPro-Regular.ttf"/>
+		<font gensize="20" name="MAP_Text" size="20" source="KozGoPro-Regular.ttf"/>
+		<font gensize="26" name="MapDirections" size="26" source="KozGoPro-Regular.ttf"/>
+		<font gensize="32" name="mg-code_mr-robertson" size="32" source="KozGoPro-Regular.ttf"/>
+		<font gensize="43" name="MG_Code_Equal" size="43" source="KozGoPro-Regular.ttf"/>
+		<font gensize="22" name="MG_Safe_Numbers-handmade" size="22" source="KozGoPro-Regular.ttf"/>
+		<font gensize="28" name="Modern_Text_Large" size="28" source="KozGoPro-Regular.ttf"/>
+		<font gensize="22" name="Modern_Text_Normal" size="22" source="KozGoPro-Regular.ttf"/>
+		<font gensize="20" name="Modern_Text_Small" size="20" source="KozGoPro-Regular.ttf"/>
+		<font gensize="99" name="ModernText_Huge" size="99" source="KozGoPro-Regular.ttf"/>
+		<font gensize="22" name="NewFont" size="22" source="KozGoPro-Regular.ttf"/>
+		<font gensize="12" name="NewFont_1" size="12" source="KozGoPro-Regular.ttf"/>
+		<font gensize="16" name="Newspaper_Date" size="16" source="KozGoPro-Regular.ttf"/>
+		<font gensize="20" name="Newspaper_Frame_Text" size="20" source="KozGoPro-Regular.ttf"/>
+		<font gensize="20" name="Newspaper_Frame_Title" size="20" source="KozGoPro-Regular.ttf"/>
+		<font gensize="29" name="Newspaper_Name" size="29" source="KozGoPro-Regular.ttf"/>
+		<font gensize="13" name="Newspaper_Text" size="13" source="KozGoPro-Regular.ttf"/>
+		<font gensize="22" name="Newspaper_Title" size="22" source="KozGoPro-Regular.ttf"/>
+		<font gensize="20" name="Office_Photo" shadowcolor="0:0:0:1" shadowoffset="2:2" size="20" source="KozGoPro-Regular.ttf"/>
+		<font gensize="20" lineheight="23" name="Office_Remington_Leaflet" size="20" source="KozGoPro-Regular.ttf"/>
+		<font gensize="22" name="Pac_dialog_game_subtitle" shadowcolor="0:0:0:0.588235" shadowoffset="0:2" size="22" source="KozGoPro-Regular.ttf"/>
+		<font gensize="22" name="Pac_dialog_game_title" shadowcolor="0:0:0:0.588235" shadowoffset="0:2" size="22" source="KozGoPro-Regular.ttf"/>
+		<font gensize="24" name="Pac_dialog_playnow" shadowcolor="1:0.886275:0.611765:1" shadowoffset="0:2" size="24" source="KozGoPro-Regular.ttf"/>
+		<font gensize="16" name="Pac_dialog_text" size="16" source="KozGoPro-Regular.ttf"/>
+		<font gensize="12" name="Pirate_Text_Tiny" size="12" source="KYOzRAPro.ttf"/>
+		<font gensize="22" lineheight="29" name="Pirate_Write_Large" size="22" source="YOzRAPro.ttf"/>
+		<font gensize="16" lineheight="21" name="Pirate_Write_Normal" size="16" source="YOzRAPro.ttf"/>
+		<font gensize="26" lineheight="29" name="Pirate_Write_popup_expo_title" size="26" source="YOzRAPro.ttf"/>
+		<font gensize="18" name="Pirate_Write_popup_expo_text" size="18" source="YOzRAPro.ttf"/>
+		<font gensize="14" name="Pirate_Write_Small" size="14" source="YOzRAPro.ttf"/>
+		<font gensize="40" name="Plaque_Hall" shadowcolor="0:0:0:1" shadowoffset="1:1" size="40" source="KozGoPro-Regular.ttf"/>
+		<font gensize="30" name="Pop-up_Statue_Plaque" size="30" source="KozGoPro-Regular.ttf"/>
+		<font gensize="20" name="Skip" size="20" source="KozGoPro-Regular.ttf"/>
+		<font gensize="22" name="Sound_Screen" size="22" source="KozGoPro-Regular.ttf"/>
+		<font gensize="19" name="Splashscreen" size="19" source="KozGoPro-Regular.ttf"/>
+		<font gensize="16" name="Strategy_Guide_Text" size="16" source="KozGoPro-Regular.ttf"/>
+		<font gensize="24" name="Strategy_Guide_Title" size="24" source="KozGoPro-Regular.ttf"/>
+		<font gensize="16" name="Tutorial_Skip" size="16" source="KozGoPro-Regular.ttf"/>
+		<font gensize="18" name="Tutorial_Text" size="18" source="KozGoPro-Regular.ttf"/>
+		<font gensize="8" name="Version" size="8" source="Inconsolata.ttf"/>
+		<font gensize="16" name="Wallpaper_Saved" size="16" source="KozGoPro-Regular.ttf"/>
+		<font gensize="14" name="Wallpaper_small" size="14" source="KozGoPro-Regular.ttf"/>
+		<font gensize="27" name="Zoom_Modern_Text_Large" size="27" source="KozGoPro-Regular.ttf"/>
+		<font gensize="17" name="Zoom_Modern_Text_Small" size="17" source="KozGoPro-Regular.ttf"/>
+		<font gensize="18" name="Zoom_Tutorial_Skip" size="18" source="KozGoPro-Regular.ttf"/>
+		<font gensize="20" name="Zoom_Tutorial_Text" size="20" source="KozGoPro-Regular.ttf"/>
+	</language>
+	<language name="ru">
+		<font gensize="13" name="achievement-2_desc" size="13" source="Jura-Regular.ttf"/>
+		<font gensize="18" name="achievement-2_post" shadowcolor="0.443137:0.443137:0.443137:1" shadowoffset="1:1" size="18" source="Jura-Regular.ttf"/>
+		<font gensize="13" lineheight="17" name="achievement_desc" shadowcolor="0:0:0:1" shadowoffset="-2:-2" size="13" source="Jura-Regular.ttf"/>
+		<font gensize="18" name="achievement_post" shadowcolor="0:0:0:0" shadowoffset="-2:-2" size="18" source="Jura-Regular.ttf"/>
+		<font gensize="18" name="Achievement_title" shadowcolor="0:0:0:0" shadowoffset="-2:-2" size="18" source="Jura-Regular.ttf"/>
+		<font gensize="41" name="AGD_Telephone-Panel" size="41" source="Jura-Regular.ttf"/>
+		<font gensize="16" lineheight="23" name="Book-Leaflet_Header-1" size="16" source="Jura-Regular.ttf"/>
+		<font gensize="20" lineheight="23" name="Book-Leaflet_Header-2" size="20" source="Jura-Regular.ttf"/>
+		<font gensize="10" name="Book_Office_Author" size="10" source="Jura-Regular.ttf"/>
+		<font gensize="19" name="Book_Office_Price" size="19" source="Jura-Regular.ttf"/>
+		<font gensize="10" name="Book_Office_Title" size="10" source="Jura-Regular.ttf"/>
+		<font gensize="24" name="Book_Sarah_Author" size="24" source="Jura-Regular.ttf"/>
+		<font gensize="23" lineheight="27" name="Book_Sarah_Title" size="23" source="Jura-Regular.ttf"/>
+		<font gensize="26" name="Capitans_Journal_Large" size="26" source="Jura-Regular.ttf"/>
+		<font gensize="27" name="Capitans_Journal_MediumLarge" size="27" source="Jura-Regular.ttf"/>
+		<font gensize="18" name="Capitans_Journal_Normal" size="18" source="Jura-Regular.ttf"/>
+		<font gensize="13" name="Capitans_Journal_Small" size="13" source="Jura-Regular.ttf"/>
+		<font gensize="59" name="Capitans_Journal_XLarge" size="59" source="Jura-Regular.ttf"/>
+		<font gensize="18" name="Captains_Photo" size="18" source="Jura-Regular.ttf"/>
+		<font gensize="32" name="CaseDispaly" size="32" source="Jura-Regular.ttf"/>
+		<font gensize="20" name="ClickToContinue" size="20" source="Jura-Regular.ttf"/>
+		<font gensize="16" name="Credits_Buttons" size="16" source="Jura-Regular.ttf"/>
+		<font gensize="30" name="Credits_function" size="30" source="Jura-Regular.ttf"/>
+		<font gensize="25" name="Credits_name" size="25" source="NoticiaText-Regular.ttf"/>
+		<font gensize="16" name="Crypt_Diary_Normal" size="16" source="Jura-Regular.ttf"/>
+		<font gensize="16" name="Cutscene" size="16" source="Jura-Regular.ttf"/>
+		<font gensize="10" name="Debug" size="10" source="Inconsolata.ttf"/>
+		<font gensize="8" name="Default" size="8" source="DejaVuSans.ttf"/>
+		<font baselineyoffset="3" gensize="16" lineheight="17" name="Dialog_Btn" shadowcolor="0:0:0:1" shadowoffset="2:2" size="16" source="Jura-Regular.ttf"/>
+		<font gensize="16" name="Dialog_Btn_Create_Profile" shadowcolor="0:0:0:1" shadowoffset="2:2" size="16" source="Jura-Regular.ttf"/>
+		<font gensize="15" name="DIALOG_CORRUPTED_PROFILE" size="15" source="Jura-Regular.ttf"/>
+		<font gensize="72" name="Dialog_Extras_DemoFilter" shadowcolor="0:0:0:0" shadowoffset="4:4" size="72" source="Jura-Regular.ttf"/>
+		<font gensize="24" name="Dialog_Extras_Large" size="24" source="Jura-Regular.ttf"/>
+		<font gensize="18" name="Dialog_Extras_Normal" size="18" source="Jura-Regular.ttf"/>
+		<font gensize="17" name="Dialog_Extras_Normal_Music-Saved" size="17" source="Jura-Regular.ttf"/>
+		<font gensize="10" name="Dialog_Extras_Small" size="10" source="Jura-Regular.ttf"/>
+		<font gensize="22" name="Dialog_InGame_Btn" shadowcolor="0:0:0:1" shadowoffset="2:2" size="22" source="Jura-Regular.ttf"/>
+		<font gensize="18" name="Dialog_InGame_Title" shadowcolor="0:0:0:1" shadowoffset="2:2" size="18" source="Jura-Regular.ttf"/>
+		<font gensize="16" name="Dialog_MoreInfo" size="16" source="Jura-Regular.ttf"/>
+		<font gensize="17" name="Dialog_profil_name" size="17" source="Jura-Regular.ttf"/>
+		<font gensize="20" name="Dialog_Text" shadowcolor="0:0:0:1" shadowoffset="2:2" size="20" source="Jura-Regular.ttf"/>
+		<font gensize="16" name="Dialog_Text_18" size="16" source="Jura-Regular.ttf"/>
+		<font gensize="17" name="Dialog_Text_Create_Profile" size="17" source="Jura-Regular.ttf"/>
+		<font gensize="22" lineheight="23" name="Dialog_Text_DifficultyLevel" shadowcolor="0:0:0:1" shadowoffset="2:2" size="22" source="Jura-Regular.ttf"/>
+		<font gensize="14" name="Dialog_Title" shadowcolor="0:0:0:1" shadowoffset="2:2" size="14" source="Jura-Regular.ttf"/>
+		<font gensize="17" name="Dialog_Title_Create_Profile" shadowcolor="0:0:0:1" shadowoffset="2:2" size="17" source="Jura-Regular.ttf"/>
+		<font gensize="18" name="DIARY_OBJECTIVE_DESC" size="18" source="Jura-Regular.ttf"/>
+		<font gensize="14" lineheight="32" name="DIARY_OBJECTIVE_SHORT_DESC" size="14" source="Jura-Regular.ttf"/>
+		<font gensize="28" name="DIARY_OBJECTIVE_TITLE_Large" size="28" source="Jura-Regular.ttf"/>
+		<font gensize="21" name="DIARY_OBJECTIVE_TITLE_Small" size="21" source="Jura-Regular.ttf"/>
+		<font gensize="17" name="DIARY_Pages" size="17" source="Jura-Regular.ttf"/>
+		<font gensize="18" name="DIARY_TABS_TITLE" size="18" source="Jura-Regular.ttf"/>
+		<font gensize="16" name="Extras_HO_Title" shadowcolor="0:0:0:0" shadowoffset="1:1" size="16" source="Jura-Regular.ttf"/>
+		<font gensize="18" name="Extras_Main_Description" size="18" source="Jura-Regular.ttf"/>
+		<font gensize="20" name="Extras_Page_Title" shadowcolor="0:0:0:0" shadowoffset="2:0" size="20" source="Jura-Regular.ttf"/>
+		<font gensize="32" name="Female_Text_Normal" size="32" source="Jura-Regular.ttf"/>
+		<font gensize="20" lineheight="29" name="Fishman_Large" size="20" source="Jura-Regular.ttf"/>
+		<font gensize="17" lineheight="29" name="Fishman_Normal" size="17" source="Jura-Regular.ttf"/>
+		<font gensize="24" name="Hall_Book_Header" size="24" source="Jura-Regular.ttf"/>
+		<font gensize="18" lineheight="23" name="Hall_Book_Text" size="18" source="Jura-Regular.ttf"/>
+		<font gensize="14" name="Hall_Book_Text_Description" size="14" source="Jura-Regular.ttf"/>
+		<font gensize="22" name="Hall_Poster" shadowcolor="0:0:0:1" shadowoffset="2:2" size="22" source="Jura-Regular.ttf"/>
+		<font gensize="22" name="Hall_Poster_No_Shadow" size="22" source="Jura-Regular.ttf"/>
+		<font gensize="25" name="Hand_Dirty_Writing_Large" size="25" source="Jura-Regular.ttf"/>
+		<font gensize="20" name="Hand_Dirty_Writing_Normal" size="20" source="Jura-Regular.ttf"/>
+		<font gensize="24" name="Hand_Text_Large" size="24" source="Jura-Regular.ttf"/>
+		<font gensize="18" name="Hand_Text_Normal" size="18" source="Jura-Regular.ttf"/>
+		<font gensize="15" name="Hand_Text_Small" size="15" source="Jura-Regular.ttf"/>
+		<font gensize="12" name="Hand_Text_X_Small" size="12" source="Jura-Regular.ttf"/>
+		<font gensize="14" name="HELP_Buttons" size="14" source="Jura-Regular.ttf"/>
+		<font gensize="12" name="HELP_HOList" size="12" source="Jura-Regular.ttf"/>
+		<font gensize="20" name="HELP_Large" size="20" source="Jura-Regular.ttf"/>
+		<font gensize="28" name="HELP_PAGER" size="28" source="Jura-Regular.ttf"/>
+		<font gensize="16" name="HELP_Scale_Buttons" size="16" source="Jura-Regular.ttf"/>
+		<font gensize="19" name="HELP_Scale_Large" size="19" source="Jura-Regular.ttf"/>
+		<font gensize="15" name="HELP_Small" size="15" source="Jura-Regular.ttf"/>
+		<font gensize="28" name="HELP_TITLE" shadowcolor="0:0:0:1" shadowoffset="2:2" size="28" source="Jura-Regular.ttf"/>
+		<font gensize="16" name="HUD_BlackBars" size="16" source="Jura-Regular.ttf"/>
+		<font gensize="12" name="HUD_Bt_Hint" size="12" source="Jura-Regular.ttf"/>
+		<font baselineyoffset="-6" gensize="10" lineheight="28" name="HUD_Bts" size="10" source="Jura-Regular.ttf"/>
+		<font gensize="11" name="HUD_Bts_Mahjong" size="11" source="Jura-Regular.ttf"/>
+		<font gensize="16" name="HUD_Comment" size="16" source="Jura-Regular.ttf"/>
+		<font gensize="16" name="HUD_Comment_Default" shadowcolor="0:0:0:1" shadowoffset="2:2" size="16" source="Jura-Regular.ttf"/>
+		<font gensize="16" name="HUD_Comment_Npc" shadowcolor="0:0:0:1" shadowoffset="2:2" size="16" source="Jura-Regular.ttf"/>
+		<font gensize="20" name="HUD_Context" size="20" source="Jura-Regular.ttf"/>
+		<font gensize="22" name="HUD_CursorContext" size="22" source="Jura-Regular.ttf"/>
+		<font gensize="12" name="HUD_HOITEM_LABEL" size="12" source="Jura-Regular.ttf"/>
+		<font gensize="15" name="HUD_Item_Counter" size="15" source="Jura-Regular.ttf"/>
+		<font gensize="18" name="HUD_ITEM_LABEL" shadowcolor="0:0:0:1" shadowoffset="2:2" size="18" source="Jura-Regular.ttf"/>
+		<font gensize="20" name="HUD_ItemFindingWindow_ItemName" size="20" source="Jura-Regular.ttf"/>
+		<font gensize="18" name="HUD_ItemFindingWindow_Text" size="18" source="Jura-Regular.ttf"/>
+		<font gensize="18" name="HUD_ItemFindingWindow_WellDone" size="18" source="Jura-Regular.ttf"/>
+		<font gensize="14" name="Hud_MG_Help" size="14" source="Jura-Regular.ttf"/>
+		<font gensize="16" lineheight="33" name="HUD_New_Objective" size="16" source="Jura-Regular.ttf"/>
+		<font gensize="20" name="HUD_Skip" size="20" source="Jura-Regular.ttf"/>
+		<font gensize="13" name="HUD_Title" size="13" source="Jura-Regular.ttf"/>
+		<font gensize="13" name="HUD_Title_ho" size="13" source="Jura-Regular.ttf"/>
+		<font gensize="16" name="HUD_Zooms" size="16" source="Jura-Regular.ttf"/>
+		<font gensize="18" name="Lighthouse-Leaflet_Text" size="18" source="Jura-Regular.ttf"/>
+		<font gensize="32" name="Lighthouse-Leaflet_Title" size="32" source="Jura-Regular.ttf"/>
+		<font gensize="18" name="Loading" size="18" source="Jura-Regular.ttf"/>
+		<font gensize="20" name="Mahjong_Text_Large" size="20" source="Jura-Regular.ttf"/>
+		<font gensize="15" name="Mahjong_Text_Small" size="15" source="Jura-Regular.ttf"/>
+		<font gensize="34" name="MainMenu_Button" shadowcolor="0:0:0:1" shadowoffset="2:2" size="34" source="Jura-Regular.ttf"/>
+		<font gensize="18" name="MainMenu_Button_Medium" shadowcolor="0:0:0:1" shadowoffset="2:2" size="18" source="Jura-Regular.ttf"/>
+		<font gensize="46" name="MainMenu_Large" size="46" source="Jura-Regular.ttf"/>
+		<font gensize="26" name="MainMenu_Medium" size="26" source="Jura-Regular.ttf"/>
+		<font gensize="27" name="MainMenu_Medium1" size="32" source="Jura-Regular.ttf"/>
+		<font gensize="10" name="MainMenu_Medium_2" size="24" source="Jura-Regular.ttf"/>
+		<font gensize="16" name="MainMenu_Profiles_Name" shadowcolor="0:0:0:1" shadowoffset="2:2" size="16" source="Jura-Regular.ttf"/>
+		<font gensize="24" name="MainMenu_Profiles_Name_2" size="24" source="Jura-Regular.ttf"/>
+		<font gensize="16" name="MainMenu_Profiles_Text" shadowcolor="0:0:0:1" shadowoffset="2:2" size="16" source="Jura-Regular.ttf"/>
+		<font gensize="19" name="Map_Captains-cabin_Kingsmouth" size="19" source="Jura-Regular.ttf"/>
+		<font gensize="16" name="MAP_Context" size="16" source="Jura-Regular.ttf"/>
+		<font gensize="16" name="MAP_Text" size="16" source="Jura-Regular.ttf"/>
+		<font gensize="26" name="MapDirections" size="26" source="Jura-Regular.ttf"/>
+		<font gensize="29" name="mg-code_mr-robertson" size="29" source="Jura-Regular.ttf"/>
+		<font gensize="43" name="MG_Code_Equal" size="43" source="Jura-Regular.ttf"/>
+		<font gensize="22" name="MG_Safe_Numbers-handmade" size="22" source="Jura-Regular.ttf"/>
+		<font gensize="28" name="Modern_Text_Large" size="28" source="Jura-Regular.ttf"/>
+		<font gensize="22" name="Modern_Text_Normal" size="22" source="Jura-Regular.ttf"/>
+		<font gensize="20" name="Modern_Text_Small" size="20" source="Jura-Regular.ttf"/>
+		<font gensize="99" name="ModernText_Huge" size="99" source="Jura-Regular.ttf"/>
+		<font gensize="22" name="NewFont" size="22" source="Jura-Regular.ttf"/>
+		<font gensize="12" name="NewFont_1" size="12" source="Jura-Regular.ttf"/>
+		<font gensize="16" name="Newspaper_Date" size="16" source="Jura-Regular.ttf"/>
+		<font gensize="17" name="Newspaper_Frame_Text" size="17" source="Jura-Regular.ttf"/>
+		<font gensize="20" name="Newspaper_Frame_Title" size="20" source="Jura-Regular.ttf"/>
+		<font gensize="27" name="Newspaper_Name" size="27" source="Jura-Regular.ttf"/>
+		<font gensize="13" name="Newspaper_Text" size="13" source="Jura-Regular.ttf"/>
+		<font gensize="22" name="Newspaper_Title" size="22" source="Jura-Regular.ttf"/>
+		<font gensize="20" name="Office_Photo" shadowcolor="0:0:0:1" shadowoffset="2:2" size="20" source="Jura-Regular.ttf"/>
+		<font gensize="20" lineheight="23" name="Office_Remington_Leaflet" size="20" source="Jura-Regular.ttf"/>
+		<font gensize="22" name="Pac_dialog_game_subtitle" shadowcolor="0:0:0:0.588235" shadowoffset="0:2" size="22" source="Jura-Regular.ttf"/>
+		<font gensize="22" name="Pac_dialog_game_title" shadowcolor="0:0:0:0.588235" shadowoffset="0:2" size="22" source="Jura-Regular.ttf"/>
+		<font gensize="24" name="Pac_dialog_playnow" shadowcolor="1:0.886275:0.611765:1" shadowoffset="0:2" size="24" source="Jura-Regular.ttf"/>
+		<font gensize="16" name="Pac_dialog_text" size="16" source="Jura-Regular.ttf"/>
+		<font gensize="12" name="Pirate_Text_Tiny" size="12" source="Jura-Regular.ttf"/>
+		<font gensize="16" lineheight="22" name="Pirate_Write_Large" size="16" source="Jura-Regular.ttf"/>
+		<font gensize="16" lineheight="21" name="Pirate_Write_Normal" size="16" source="Jura-Regular.ttf"/>
+		<font gensize="26" lineheight="29" name="Pirate_Write_popup_expo_title" size="26" source="Jura-Regular.ttf"/>
+		<font gensize="18" name="Pirate_Write_popup_expo_text" size="18" source="Jura-Regular.ttf"/>
+		<font gensize="14" name="Pirate_Write_Small" size="14" source="Jura-Regular.ttf"/>
+		<font gensize="40" lineheight="37" name="Plaque_Hall" shadowcolor="0:0:0:1" shadowoffset="1:1" size="40" source="Jura-Regular.ttf"/>
+		<font gensize="30" name="Pop-up_Statue_Plaque" size="30" source="Jura-Regular.ttf"/>
+		<font gensize="20" name="Skip" size="20" source="Jura-Regular.ttf"/>
+		<font gensize="22" name="Sound_Screen" size="22" source="Jura-Regular.ttf"/>
+		<font gensize="19" name="Splashscreen" size="19" source="Jura-Regular.ttf"/>
+		<font gensize="15" name="Strategy_Guide_Text" size="15" source="Jura-Regular.ttf"/>
+		<font gensize="24" name="Strategy_Guide_Title" size="24" source="Jura-Regular.ttf"/>
+		<font gensize="16" name="Tutorial_Skip" size="16" source="Jura-Regular.ttf"/>
+		<font gensize="18" name="Tutorial_Text" size="18" source="Jura-Regular.ttf"/>
+		<font gensize="8" name="Version" size="8" source="Inconsolata.ttf"/>
+		<font gensize="16" name="Wallpaper_Saved" size="16" source="Jura-Regular.ttf"/>
+		<font gensize="14" name="Wallpaper_small" size="14" source="Jura-Regular.ttf"/>
+		<font gensize="27" name="Zoom_Modern_Text_Large" size="27" source="Jura-Regular.ttf"/>
+		<font gensize="17" name="Zoom_Modern_Text_Small" size="17" source="Jura-Regular.ttf"/>
+		<font gensize="18" name="Zoom_Tutorial_Skip" size="18" source="Jura-Regular.ttf"/>
+		<font gensize="20" name="Zoom_Tutorial_Text" size="20" source="Jura-Regular.ttf"/>
+	</language>
+</fontscript>

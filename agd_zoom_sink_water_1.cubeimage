@@ -1,0 +1,4 @@
+<animatedImage fps="7" blendframes="0">
+	<frame source="zoom_wire_sink_0falling_water01.png"></frame>
+	<frame source="zoom_wire_sink_0falling_water02.png"></frame>
+</animatedImage>

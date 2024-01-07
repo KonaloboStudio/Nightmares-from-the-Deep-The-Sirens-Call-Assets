@@ -1,0 +1,5 @@
+<animatedImage fps="3.00" blendframes="0">
+    <frame source="pier_seagull_07.png"></frame>
+	<frame source="pier_seagull_08.png"></frame>
+	<frame source="pier_seagull_07.png"></frame>
+</animatedImage>

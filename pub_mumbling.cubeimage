@@ -1,0 +1,6 @@
+<animatedImage fps="4" blendframes="1" randomstart="1" width="57" height="50">
+	<frame source="pub_mumbling_mouth_04.png" dx="13" dy="0" width="35" height="35"></frame>
+	<frame source="pub_mumbling_mouth_03.png" dx="0" dy="5" width="57" height="45"></frame>
+	<frame source="pub_mumbling_mouth_02.png" dx="0" dy="5" width="57" height="45"></frame>
+	<frame source="pub_mumbling_mouth_01.png" dx="0" dy="5" width="57" height="45"></frame>
+</animatedImage>

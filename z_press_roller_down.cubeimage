@@ -1,0 +1,7 @@
+<animatedImage fps="9" blendframes="0" width="322" height="166"> 
+	<frame source="z_press_roller_down_Roller_Down_05.png" dx="0" dy="0" width="322" height="166"></frame>
+	<frame source="z_press_roller_down_Roller_Down_04.png" dx="0" dy="0" width="322" height="166"></frame>
+	<frame source="z_press_roller_down_Roller_Down_03.png" dx="0" dy="0" width="322" height="166"></frame>
+	<frame source="z_press_roller_down_Roller_Down_02.png" dx="0" dy="0" width="322" height="166"></frame>
+	<frame source="z_press_roller_down_Roller_Down_01.png" dx="0" dy="0" width="322" height="166"></frame>
+</animatedImage >

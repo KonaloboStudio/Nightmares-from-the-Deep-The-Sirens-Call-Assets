@@ -1,0 +1,7 @@
+<animatedImage fps="6" blendframes="0" width="244" height="122">
+	<frame source="fsz_coffee_mill_handle_Mill_handle_01.png" dx="115" dy="21" width="129" height="76"></frame>
+	<frame source="fsz_coffee_mill_handle_Mill_handle_02.png" dx="115" dy="37" width="56" height="75"></frame>
+	<frame source="fsz_coffee_mill_handle_Mill_handle_03.png" dx="63" dy="36" width="65" height="75"></frame>
+	<frame source="fsz_coffee_mill_handle_Mill_handle_04.png" dx="0" dy="20" width="127" height="102"></frame>
+	<frame source="fsz_coffee_mill_handle_Mill_handle_05.png" dx="104" dy="0" width="44" height="98"></frame>
+</animatedImage>

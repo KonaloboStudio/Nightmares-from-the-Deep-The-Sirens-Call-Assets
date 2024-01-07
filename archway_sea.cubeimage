@@ -1,0 +1,10 @@
+<animatedImage fps="6" blendframes="1" randomstart="1" width="624" height="190">
+	<frame source="archway_sea-1.png" dx="0" dy="0" width="624" height="190"></frame>
+	<frame source="archway_sea-2.png" dx="0" dy="0" width="624" height="190"></frame>
+	<frame source="archway_sea-3.png" dx="0" dy="0" width="624" height="190"></frame>
+	<frame source="archway_sea-4.png" dx="0" dy="0" width="624" height="190"></frame>
+	<frame source="archway_sea-5.png" dx="0" dy="0" width="624" height="190"></frame>
+	<frame source="archway_sea-6.png" dx="0" dy="0" width="624" height="190"></frame>
+	<frame source="archway_sea-7.png" dx="0" dy="0" width="624" height="190"></frame>
+	<frame source="archway_sea-8.png" dx="0" dy="0" width="624" height="190"></frame>
+</animatedImage>

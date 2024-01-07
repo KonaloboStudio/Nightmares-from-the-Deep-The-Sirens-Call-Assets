@@ -1,0 +1,9 @@
+<!-- Delicate, background sound for Corridor CE location. It can't be annoying. Looped sound.-->
+
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="false"  Ambient="true">
+    <CRandomContainer>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="0.850" Volume="0.600" FileName="ambient_base_Mechanic-Wheel.wav" Looped="true"></CSampleFile>
+        </CSample>
+    </CRandomContainer>
+</Sound>

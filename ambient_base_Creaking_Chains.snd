@@ -1,0 +1,17 @@
+<!-- Used in location Lantern Inside. Sound of creaking chains (from time to time). -->
+
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="true"  Ambient="true" >
+
+	<CRandomContainer DelayMin="2" DelayMax="3" WaitAfterMin="1" WaitAfterMax="2">
+        <CSample>
+           <CSampleFile Pan="-0.400" Pitch="0.900" Volume="1.000" FadeInTime="0.15" FadeOutTime="0.15" FileName="ambient_base_Creaking_Chains_1.wav"></CSampleFile>
+        </CSample>
+        <CSample>
+           <CSampleFile Pan="-0.400" Pitch="0.900" Volume="1.000" FadeInTime="0.15" FadeOutTime="0.15" FileName="ambient_base_Creaking_Chains_2.wav"></CSampleFile>
+        </CSample>
+        <CSample>
+           <CSampleFile Pan="-0.400" Pitch="0.900" Volume="1.000" FadeInTime="0.15" FadeOutTime="0.15" FileName="ambient_base_Creaking_Chains_3.wav"></CSampleFile>
+        </CSample>
+    </CRandomContainer>
+
+</Sound>

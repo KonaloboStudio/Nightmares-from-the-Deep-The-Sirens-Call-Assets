@@ -1,0 +1,6 @@
+<animatedImage fps="9" blendframes="0" width="79" height="142"> 
+	<frame source="z_treasury-door_treasury_key_Key_01.png" dx="1" dy="4" width="65" height="138"></frame>
+	<frame source="z_treasury-door_treasury_key_Key_02.png" dx="0" dy="4" width="66" height="128"></frame>
+	<frame source="z_treasury-door_treasury_key_Key_03.png" dx="0" dy="0" width="79" height="128"></frame>
+	<frame source="z_treasury-door_treasury_key_Key_04.png" dx="5" dy="0" width="72" height="139"></frame>
+</animatedImage >

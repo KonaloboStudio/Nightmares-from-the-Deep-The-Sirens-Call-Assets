@@ -1,0 +1,13 @@
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CRandomContainer>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.100" Volume="0.500" FileName="minigame_Mechanism_Sparks_1.wav"></CSampleFile>
+        </CSample>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.300" Volume="0.500" FileName="minigame_Mechanism_Sparks_2.wav"></CSampleFile>
+        </CSample>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.200" Volume="0.500" FileName="minigame_Mechanism_Sparks_3.wav"></CSampleFile>
+        </CSample>
+    </CRandomContainer>
+</Sound>

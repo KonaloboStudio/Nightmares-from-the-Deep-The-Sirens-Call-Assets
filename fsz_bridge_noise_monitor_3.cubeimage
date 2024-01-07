@@ -1,0 +1,4 @@
+<animatedImage fps="11" blendframes="0" width="86" height="130"> 
+	<frame source="fsz_bridge_monitor_01_noise_1.png" dx="0" dy="0" width="86" height="130"></frame>
+	<frame source="fsz_bridge_monitor_01_noise_2.png" dx="0" dy="0" width="86" height="130"></frame>
+</animatedImage >

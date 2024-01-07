@@ -1,0 +1,5 @@
+<animatedImage fps="3" blendframes="0" width="147" height="104">
+	<frame source="fsz_coffee_mill_coffee_Mill_coffee_01.png" dx="2" dy="0" width="145" height="86"></frame>
+	<frame source="fsz_coffee_mill_coffee_Mill_coffee_02.png" dx="1" dy="5" width="142" height="90"></frame>
+	<frame source="fsz_coffee_mill_coffee_Mill_coffee_03.png" dx="0" dy="14" width="132" height="90"></frame>
+</animatedImage>

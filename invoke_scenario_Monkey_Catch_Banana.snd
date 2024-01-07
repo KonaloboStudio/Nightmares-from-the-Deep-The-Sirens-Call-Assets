@@ -1,0 +1,20 @@
+<!-- Monkey catch banana on zoom Troley. -->
+
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000">
+	<CSoundContainer>
+		<CSoundContainer Delay="0.0">
+			<CSample>
+				<CSampleFile Pan="0.400" Pitch="0.900" Volume="1.0" 
+FileName="invoke_scenario_Monkey_Panorama_Catch_Banana_1.wav"></CSampleFile>
+			</CSample>
+		</CSoundContainer>
+		
+		<CSoundContainer Delay="0.5">
+			<CSample>
+				<CSampleFile Pan="0.400" Pitch="1.000" Volume="1.0" 
+FileName="invoke_scenario_Monkey_Panorama_Catch_Banana_2.wav"></CSampleFile>
+			</CSample>
+		</CSoundContainer>
+		
+	</CSoundContainer>
+</Sound>

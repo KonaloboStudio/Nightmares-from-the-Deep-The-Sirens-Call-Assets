@@ -1,0 +1,5 @@
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="false" >
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="1.000" FileName="CORRIDOR_FSZOOM_BOARDER-WINDOW_AE_TALK_WITH_SIREN.wav"></CSampleFile>
+        </CSample>
+</Sound>

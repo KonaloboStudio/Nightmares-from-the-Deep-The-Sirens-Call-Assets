@@ -1,0 +1,5 @@
+<animatedImage fps="25" blendframes="0" width="547" height="729"> 
+	<frame source="fsz_fishman_fishman_2_3_Fishman_2_0001.png" dx="0" dy="0" width="469" height="729"></frame>
+	<frame source="fsz_fishman_fishman_2_3_Fishman_2_0002.png" dx="2" dy="11" width="515" height="718"></frame>
+	<frame source="fsz_fishman_fishman_2_3_Fishman_2_0003.png" dx="2" dy="17" width="545" height="712"></frame>
+</animatedImage >

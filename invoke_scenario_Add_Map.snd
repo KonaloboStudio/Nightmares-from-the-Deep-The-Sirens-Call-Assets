@@ -1,0 +1,9 @@
+<!-- used in animation - adding map. Sounds of adding the map to the HUD. -->
+
+<Sound Pan="-0.500" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CSequenceContainer>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="1.000" FileName="invoke_scenario_Add_Map.wav"></CSampleFile>
+        </CSample>
+    </CSequenceContainer>
+</Sound>

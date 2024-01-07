@@ -1,0 +1,10 @@
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Ambient="true">
+    <CSoundContainer>
+        <CSample>
+           <CSampleFile Pan="-0.200" Pitch="0.800" Volume="1.00" FileName="ambient_base_Wood-crack.wav" Looped="true"></CSampleFile>
+        </CSample>
+        <CSample>
+           <CSampleFile Pan="0.200" Pitch="1.000" Volume="0.70" FileName="ambient_base_Wind-noise.wav" Looped="true"></CSampleFile>
+        </CSample>
+    </CSoundContainer>
+</Sound>

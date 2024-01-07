@@ -1,0 +1,18 @@
+<!-- Used in locations where is raining(ex. Hall, Office). Looped sound. -->
+
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="true"  Ambient="true" >
+    <CRandomContainer DelayMin="2" DelayMax="4">
+        <CSample>
+           <CSampleFile Pan="0.300" Pitch="0.700" Volume="0.800" 
+FileName="invoke_scenario_Pretorian_Attack_1.wav" ></CSampleFile>
+        </CSample>
+        <CSample>
+           <CSampleFile Pan="0.200" Pitch="0.700" Volume="0.800" 
+FileName="invoke_scenario_Pretorian_Attack_2.wav" ></CSampleFile>
+        </CSample>
+        <CSample>
+           <CSampleFile Pan="-0.300" Pitch="0.900" Volume="1.000" 
+FileName="invoke_scenario_Pretorian_Attack_3.wav" ></CSampleFile>
+        </CSample>
+    </CRandomContainer>
+</Sound>

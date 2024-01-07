@@ -1,0 +1,5 @@
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="false" >
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="1.000" FileName="BEDROOM_MON_WOUNDED-FISHMAN_AE_USE-BANDAGE.wav"></CSampleFile>
+        </CSample>
+</Sound>

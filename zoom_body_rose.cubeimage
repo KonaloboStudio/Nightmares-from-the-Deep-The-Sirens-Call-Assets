@@ -1,0 +1,17 @@
+<animatedImage fps="8" blendframes="0" width="246" height="171">
+	<frame source="zoom_body_rose_EX_Open_00.png" dx="11" dy="31" width="183" height="139"></frame>
+	<frame source="zoom_body_rose_EX_Open_01.png" dx="10" dy="7" width="185" height="163"></frame>
+	<frame source="zoom_body_rose_EX_Open_02.png" dx="10" dy="6" width="184" height="163"></frame>
+	<frame source="zoom_body_rose_EX_Open_03.png" dx="10" dy="4" width="185" height="166"></frame>
+	<frame source="zoom_body_rose_EX_Open_04.png" dx="0" dy="1" width="201" height="169"></frame>
+	<frame source="zoom_body_rose_EX_Open_05.png" dx="0" dy="0" width="246" height="171"></frame>
+	<frame source="zoom_body_rose_EX_Open_06.png" dx="0" dy="0" width="246" height="171"></frame>
+	<frame source="zoom_body_rose_EX_Open_07.png" dx="0" dy="0" width="246" height="171"></frame>
+	<frame source="zoom_body_rose_EX_Open_08.png" dx="0" dy="0" width="246" height="171"></frame>
+	<frame source="zoom_body_rose_EX_Open_09.png" dx="0" dy="0" width="246" height="171"></frame>
+	<frame source="zoom_body_rose_EX_Open_10.png" dx="0" dy="0" width="246" height="171"></frame>
+	<frame source="zoom_body_rose_EX_Open_11.png" dx="0" dy="0" width="246" height="171"></frame>
+	<frame source="zoom_body_rose_EX_Open_12.png" dx="0" dy="0" width="246" height="171"></frame>
+	<frame source="zoom_body_rose_EX_Open_13.png" dx="0" dy="0" width="246" height="171"></frame>
+	<frame source="zoom_body_rose_EX_Open_14.png" dx="0" dy="0" width="246" height="171"></frame>
+</animatedImage >

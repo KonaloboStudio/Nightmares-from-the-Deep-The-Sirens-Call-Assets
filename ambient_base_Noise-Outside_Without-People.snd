@@ -1,0 +1,23 @@
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Ambient="true">
+    <CSoundContainer>
+        
+    <CRandomContainer Looped="true" DelayMin="2" DelayMax="3" WaitAfterMin="1" WaitAfterMax="3">
+        <CSample>
+           <CSampleFile Pan="0.300" Pitch="0.800" Volume="1.000" 
+FileName="ambient_base_Noise-Outside_1.wav" ></CSampleFile>
+        </CSample>
+        <CSample>
+           <CSampleFile Pan="0.200" Pitch="0.900" Volume="1.000" 
+FileName="ambient_base_Noise-Outside_2.wav" ></CSampleFile>
+        </CSample>
+        <CSample>
+           <CSampleFile Pan="0.400" Pitch="0.900" Volume="1.000" 
+FileName="ambient_base_Noise-Outside_3.wav" ></CSampleFile>
+        </CSample>
+        <CSample>
+           <CSampleFile Pan="0.400" Pitch="1.000" Volume="1.000" 
+FileName="ambient_base_Noise-Outside_4.wav" ></CSampleFile>
+        </CSample>
+    </CRandomContainer>
+    </CSoundContainer>
+</Sound>

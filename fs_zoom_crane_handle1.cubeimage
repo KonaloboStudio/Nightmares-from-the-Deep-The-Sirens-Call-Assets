@@ -1,0 +1,6 @@
+<animatedImage fps="8" blendframes="0" width="55" height="153"> 
+	<frame source="fs_zoom_crane_EX_Handle1_01.png" dx="8" dy="71" width="45" height="82"></frame>
+	<frame source="fs_zoom_crane_EX_Handle1_02.png" dx="0" dy="75" width="54" height="44"></frame>
+	<frame source="fs_zoom_crane_EX_Handle1_03.png" dx="3" dy="28" width="52" height="67"></frame>
+	<frame source="fs_zoom_crane_EX_Handle1_04.png" dx="13" dy="0" width="40" height="100"></frame>
+</animatedImage >

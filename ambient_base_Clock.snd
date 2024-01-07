@@ -1,0 +1,9 @@
+<!-- Delicate, background sound for Office location. It can't be annoying. Looped sound.-->
+
+<Sound Pan="0.400" Pitch="1.000" Volume="1.000" Looped="false"  Ambient="true">
+    <CRandomContainer>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="0.50" FileName="ambient_base_clock.wav" Looped="true"></CSampleFile>
+        </CSample>
+    </CRandomContainer>
+</Sound>

@@ -1,0 +1,16 @@
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="true"  Ambient="true" >
+    <CRandomContainer DelayMin="2" DelayMax="5" WaitAfterMin="1" WaitAfterMax="3">
+        <CSample>
+           <CSampleFile Pan="0.300" Pitch="1.000" Volume="0.880" 
+FileName="ambient_base_Ghost_Talks_1.wav" ></CSampleFile>
+        </CSample>
+        <CSample>
+           <CSampleFile Pan="-0.400" Pitch="1.300" Volume="0.880" 
+FileName="ambient_base_Ghost_Talks_2.wav" ></CSampleFile>
+        </CSample>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.200" Volume="0.880" 
+FileName="ambient_base_Ghost_Talks_3.wav" ></CSampleFile>
+        </CSample>
+    </CRandomContainer>
+</Sound>

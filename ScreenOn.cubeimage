@@ -1,0 +1,4 @@
+<animatedImage fps="4" blendframes="1" randomstart="1">
+	<frame source="office_screenon2.png"></frame>
+	<frame source="office_screenon1.png"></frame>
+</animatedImage>

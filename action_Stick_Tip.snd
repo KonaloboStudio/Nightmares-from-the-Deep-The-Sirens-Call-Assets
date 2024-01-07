@@ -1,0 +1,9 @@
+<!-- Used in Office - MG Safe. Sticking a tip on the safe. -->
+
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CSequenceContainer>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.200" Volume="1.000" FileName="action_Stick_Tip.wav"></CSampleFile>
+        </CSample>
+    </CSequenceContainer>
+</Sound>

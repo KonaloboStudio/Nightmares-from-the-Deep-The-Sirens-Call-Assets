@@ -1,0 +1,5 @@
+<animatedImage fps="6" blendframes="1" width="72" height="72">
+	<frame source="item_lighter_01_mini.png" dx="0" dy="0" width="72" height="72"></frame>
+	<frame source="item_lighter_02_mini.png" dx="0" dy="1" width="72" height="72"></frame>
+	<frame source="item_lighter_03_mini.png" dx="0" dy="0" width="72" height="72"></frame>
+</animatedImage>

@@ -1,0 +1,7 @@
+<!-- Monkey go away on zoom Troley. -->
+
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="false" >
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="1.000" FileName="invoke_scenario_Monkey_Panorama_GoAway.wav"></CSampleFile>
+        </CSample>
+</Sound>

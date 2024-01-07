@@ -1,0 +1,33 @@
+<animatedImage fps="15" blendframes="0" width="341" height="233">
+	<frame source="ho_newspaper_damage_gate_anim01.png" dx="0" dy="0" width="291" height="225"></frame>
+	<frame source="ho_newspaper_damage_gate_anim02.png" dx="0" dy="0" width="291" height="233"></frame>
+	<frame source="ho_newspaper_damage_gate_anim03.png" dx="0" dy="0" width="291" height="225"></frame>
+	<frame source="ho_newspaper_damage_gate_anim04.png" dx="0" dy="0" width="291" height="225"></frame>
+	<frame source="ho_newspaper_damage_gate_anim05.png" dx="0" dy="0" width="291" height="225"></frame>
+	<frame source="ho_newspaper_damage_gate_anim06.png" dx="0" dy="0" width="291" height="225"></frame>
+	<frame source="ho_newspaper_damage_gate_anim07.png" dx="0" dy="0" width="291" height="225"></frame>
+	<frame source="ho_newspaper_damage_gate_anim08.png" dx="0" dy="0" width="291" height="225"></frame>
+	<frame source="ho_newspaper_damage_gate_anim09.png" dx="0" dy="0" width="291" height="225"></frame>
+	<frame source="ho_newspaper_damage_gate_anim10.png" dx="0" dy="0" width="291" height="225"></frame>
+	<frame source="ho_newspaper_damage_gate_anim11.png" dx="0" dy="0" width="291" height="225"></frame>
+	<frame source="ho_newspaper_damage_gate_anim12.png" dx="0" dy="0" width="291" height="225"></frame>
+	<frame source="ho_newspaper_damage_gate_anim13.png" dx="0" dy="0" width="291" height="225"></frame>
+	<frame source="ho_newspaper_damage_gate_anim14.png" dx="0" dy="0" width="291" height="225"></frame>
+	<frame source="ho_newspaper_damage_gate_anim15.png" dx="0" dy="0" width="291" height="220"></frame>
+	<frame source="ho_newspaper_damage_gate_anim16.png" dx="0" dy="0" width="291" height="221"></frame>
+	<frame source="ho_newspaper_damage_gate_anim17.png" dx="0" dy="0" width="291" height="222"></frame>
+	<frame source="ho_newspaper_damage_gate_anim18.png" dx="0" dy="0" width="291" height="221"></frame>
+	<frame source="ho_newspaper_damage_gate_anim19.png" dx="0" dy="0" width="291" height="223"></frame>
+	<frame source="ho_newspaper_damage_gate_anim20.png" dx="0" dy="0" width="291" height="221"></frame>
+	<frame source="ho_newspaper_damage_gate_anim21.png" dx="0" dy="0" width="291" height="221"></frame>
+	<frame source="ho_newspaper_damage_gate_anim22.png" dx="0" dy="0" width="291" height="221"></frame>
+	<frame source="ho_newspaper_damage_gate_anim23.png" dx="0" dy="0" width="291" height="222"></frame>
+	<frame source="ho_newspaper_damage_gate_anim24.png" dx="0" dy="0" width="294" height="224"></frame>
+	<frame source="ho_newspaper_damage_gate_anim25.png" dx="0" dy="0" width="318" height="223"></frame>
+	<frame source="ho_newspaper_damage_gate_anim26.png" dx="0" dy="0" width="328" height="224"></frame>
+	<frame source="ho_newspaper_damage_gate_anim27.png" dx="0" dy="0" width="336" height="224"></frame>
+	<frame source="ho_newspaper_damage_gate_anim28.png" dx="0" dy="0" width="340" height="223"></frame>
+	<frame source="ho_newspaper_damage_gate_anim29.png" dx="0" dy="0" width="341" height="223"></frame>
+	<frame source="ho_newspaper_damage_gate_anim30.png" dx="0" dy="0" width="335" height="223"></frame>
+	<frame source="ho_newspaper_damage_gate_anim31.png" dx="0" dy="0" width="337" height="223"></frame>
+</animatedImage>

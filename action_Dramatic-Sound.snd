@@ -1,0 +1,10 @@
+<!-- Place arrow in crossbow. HO Ammunition. -->
+
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CSequenceContainer Delay="0.000">
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="1.000" 
+FileName="action_Dramatic-Sound.wav"></CSampleFile>
+        </CSample>
+    </CSequenceContainer>
+</Sound>

@@ -1,0 +1,5 @@
+<animatedImage fps="10" blendframes="0" width="130" height="89"> 
+	<frame source="rat_sit_01.png" dx="2" dy="8" width="128" height="81"></frame>
+	<frame source="rat_sit_02.png" dx="0" dy="7" width="129" height="81"></frame>
+	<frame source="rat_sit_03.png" dx="1" dy="0" width="129" height="89"></frame>
+</animatedImage >

@@ -1,0 +1,17 @@
+<!-- Used in location Yard, Lounge. Sound of falling dust/stones from the wall (rarely). -->
+
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="false"  Ambient="false" >
+
+	<CRandomContainer>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="0.800" Volume="0.800" FadeInTime="0.00" FadeOutTime="0.00" FileName="ambient_base_Falling_Dust_and_Stones_1.wav"></CSampleFile>
+        </CSample>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="0.800" Volume="0.800" FadeInTime="0.00" FadeOutTime="0.00" FileName="ambient_base_Falling_Dust_and_Stones_2.wav"></CSampleFile>
+        </CSample>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="0.800" Volume="0.800" FadeInTime="0.00" FadeOutTime="0.00" FileName="ambient_base_Falling_Dust_and_Stones_3.wav"></CSampleFile>
+        </CSample>
+    </CRandomContainer>
+
+</Sound>

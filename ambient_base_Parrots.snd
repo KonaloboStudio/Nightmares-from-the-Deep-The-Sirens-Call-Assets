@@ -1,0 +1,18 @@
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Ambient="true" Looped="true" >
+
+	
+	<CRandomContainer DelayMin="1" DelayMax="2" WaitAfterMin="1" WaitAfterMax="1">
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.00"  FadeInTime="0.75" FadeOutTime="0.75" FileName="ambient_base_Parrots.wav"></CSampleFile>
+        </CSample>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="0.700"  FadeInTime="0.75" FadeOutTime="0.75" FileName="ambient_base_Parrots.wav"></CSampleFile>
+        </CSample>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="0.900"  FadeInTime="0.75" FadeOutTime="0.75" FileName="ambient_base_Parrots.wav"></CSampleFile>
+        </CSample>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="0.800" FadeInTime="0.75" FadeOutTime="0.75" FileName="ambient_base_Parrots.wav"></CSampleFile>
+        </CSample>
+    </CRandomContainer>
+</Sound>

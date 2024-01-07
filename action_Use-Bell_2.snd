@@ -1,0 +1,9 @@
+<!-- Used in MG Mahjong. Bell in MG Mahjong.-->
+
+<Sound Pan="0.300" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CSequenceContainer Delay="0.200">
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="0.700" Volume="1.000" FileName="action_Use-Bell_2.wav"></CSampleFile>
+        </CSample>
+    </CSequenceContainer>
+</Sound>

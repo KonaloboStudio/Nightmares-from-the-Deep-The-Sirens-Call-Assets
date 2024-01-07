@@ -1,0 +1,9 @@
+<!-- Used in locations where is water flowing on the ground(ex. Catacombs). Looped sound. -->
+
+<Sound Pan="0.00" Pitch="1.000" Volume="1.000" Ambient="true">
+    <CRandomContainer>
+        <CSample>
+           <CSampleFile Pan="0.300" Pitch="1.000" Volume="0.650" Looped="true" FileName="ambient_base_Flowing-Water.wav" ></CSampleFile>
+        </CSample>
+    </CRandomContainer>
+</Sound>

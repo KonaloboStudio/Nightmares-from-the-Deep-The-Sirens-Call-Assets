@@ -1,0 +1,8 @@
+<animatedImage fps="6" blendframes="0" width="50" height="48"> 
+	<frame source="zoom_body_key_EX_Key_00.png" dx="2" dy="1" width="47" height="43"></frame>
+	<frame source="zoom_body_key_EX_Key_01.png" dx="2" dy="0" width="45" height="45"></frame>
+	<frame source="zoom_body_key_EX_Key_02.png" dx="6" dy="0" width="37" height="45"></frame>
+	<frame source="zoom_body_key_EX_Key_03.png" dx="7" dy="1" width="28" height="37"></frame>
+	<frame source="zoom_body_key_EX_Key_04.png" dx="6" dy="1" width="39" height="47"></frame>
+	<frame source="zoom_body_key_EX_Key_05.png" dx="0" dy="0" width="50" height="47"></frame>
+</animatedImage >

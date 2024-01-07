@@ -1,0 +1,13 @@
+<animatedImage fps="8" blendframes="0" width="190" height="86"> 
+	<frame source="z_generator_fuel__1.png" dx="0" dy="0" width="170" height="80"></frame>
+	<frame source="z_generator_fuel__2.png" dx="0" dy="0" width="172" height="80"></frame>
+	<frame source="z_generator_fuel__3.png" dx="0" dy="0" width="179" height="80"></frame>
+	<frame source="z_generator_fuel__4.png" dx="0" dy="0" width="189" height="83"></frame>
+	<frame source="z_generator_fuel__5.png" dx="0" dy="0" width="189" height="83"></frame>
+	<frame source="z_generator_fuel__6.png" dx="0" dy="0" width="189" height="83"></frame>
+	<frame source="z_generator_fuel__7.png" dx="0" dy="0" width="189" height="83"></frame>
+	<frame source="z_generator_fuel__8.png" dx="0" dy="0" width="189" height="83"></frame>
+	<frame source="z_generator_fuel__9.png" dx="0" dy="0" width="189" height="83"></frame>
+	<frame source="z_generator_fuel__10.png" dx="0" dy="0" width="190" height="83"></frame>
+	<frame source="z_generator_fuel__11.png" dx="0" dy="0" width="190" height="86"></frame>
+</animatedImage >
